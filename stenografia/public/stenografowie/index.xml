@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stenografowie on Stenografia</title>
+    <link>https://www.stenografia.pl/stenografowie/</link>
+    <description>Recent content in Stenografowie on Stenografia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Thu, 11 Feb 2010 23:59:04 +0000</lastBuildDate><atom:link href="https://www.stenografia.pl/stenografowie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astrid Lindgren - stenografistka i szpieg</title>
+      <link>https://www.stenografia.pl/stenografowie/astrid_lindgren/</link>
+      <pubDate>Thu, 20 May 2021 23:59:04 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/stenografowie/astrid_lindgren/</guid>
+      <description>TODO: tłumaczenie i summarum z:
+https://www.astridlindgren.com/sv/astrid-lindgren/ungdomen/stenografi
+https://www.barnboksinstitutet.se/forskning/astrid-lindgren-koden/</description>
+    </item>
+    
+  </channel>
+</rss>

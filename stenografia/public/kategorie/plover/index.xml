@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plover on Stenografia</title>
+    <link>https://www.stenografia.pl/kategorie/plover/</link>
+    <description>Recent content in plover on Stenografia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Tue, 15 Feb 2022 23:59:59 +0000</lastBuildDate><atom:link href="https://www.stenografia.pl/kategorie/plover/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wielkie przyspieszenie</title>
+      <link>https://www.stenografia.pl/blog/2022-02-15_wielkie_przyspieszenie/</link>
+      <pubDate>Tue, 15 Feb 2022 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2022-02-15_wielkie_przyspieszenie/</guid>
+      <description>Tak, wiem dobrze, że aby utrzymać oglądalność bloga lub jakiejkolwiek innej strony, należy bezwzględnie i regularnie publikować, publikować, publikować, najlepiej codziennie, albo co tydzień, ale nie co miesiąc. I do tego wrzucać linki na fejszbuka i inne media społecznościowe, bo bez tego już nikt tej strony nie znajdzie. I tak dalej.
+Ale co robić, jeżeli prace po świątecznym relaksie niespodziewanie przyspieszyły (niestety, Priscilla wciąż milczy, a chciała jeszcze dokonać dość poważnych zmian w podstawach metody), a roboty pojawiło się tyle, że człowiek nie wie, w co ręce włożyć.</description>
+    </item>
+    
+    <item>
+      <title>Raport z gabinetu</title>
+      <link>https://www.stenografia.pl/blog/2021-12-10_raport_z_gabinetu/</link>
+      <pubDate>Fri, 10 Dec 2021 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2021-12-10_raport_z_gabinetu/</guid>
+      <description>Prace nad tzw. teorią, czyli metodyką i słownikami stenotypii chwilowo zwolniły bieg. Przyczyną są kłopoty ze zdrowiem, jakich doświadcza główny mózg projektu, czyli Priscilla. Ale zaskoczyło mnie, że przestrzeń informacyjna poruszyła się na innych, dotychczas trochę zaniedbanych przeze mnie (z przyczyny, że się po prostu na tym nie znam) polach.
+Mianowicie skontaktowało się ze zmną dwóch pasjonatów od programowania i elektroniki.
+Kos (nie Janek) Jeden z nich (deʃhipu) jest specem od projektowania klawiatur - hobbystycznie, przypuszczam, że roboczo zajmuje się innymi rzeczami.</description>
+    </item>
+    
+    <item>
+      <title>Postępy stenotypii</title>
+      <link>https://www.stenografia.pl/blog/2021-11-10_postepy_stenotypii/</link>
+      <pubDate>Wed, 10 Nov 2021 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2021-11-10_postepy_stenotypii/</guid>
+      <description>Spieszę z zawiadomieniem, że projekt nadal nie stoi w miejscu. Nie przyspiesza co prawda, ale równym tempem, krok za krokiem, klik za klikiem, zbliża nas do upragnionego celu.
+A zatem za koleją, jak mawiali nasi przodkowie z epoki, kiedy jeszcze nie było kolei:
+Priscilla E. Trillo w ciągu ostatniego półtora miesiąca wydała tabelki z opisem lewej, środkowej i prawej strony klawiatury. Niestety, od razu zapowiedziała, że są to pierwsze wersje, które bez wątpienia ulegną zmianie.</description>
+    </item>
+    
+    <item>
+      <title>Nowa energia</title>
+      <link>https://www.stenografia.pl/blog/2021-09-19_nowa_energia/</link>
+      <pubDate>Sun, 19 Sep 2021 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2021-09-19_nowa_energia/</guid>
+      <description>Spieszę z zawiadomieniem, że projekt nie stoi w miejscu, przeciwnie, posuwa się szparko naprzód. Zaryzykuję twierdzenie, że nawet przyspieszył.
+Otóż dołączyła do projektu (właściwie to trzeba powiedzieć powiedzieć, że go PRZEJĘŁA) zawodowa stenotypistka Priscilla E. Trillo. Poliglotka, autorka systemu dla języka rosyjskiego. Link przekierowuje do gotowej wtyczki dla programu Plover, który również w naszym projekcie pełni główną rolę, bo to przy jego pomocy będziemy wyciskać stenotypię. A jeżeli ktoś chce sobie przejrzeć gotowy system dla języka rosyjskiego, to proszę bardzo, klikajcie &amp;raquo;TUTAJ&amp;laquo;  - dostaniecie dokument w Wordzie do przeczytania.</description>
+    </item>
+    
+    <item>
+      <title>Stenotypia - przypomnienie filozofii</title>
+      <link>https://www.stenografia.pl/blog/2021-07-08_stenotypia-przypomnienie-filozofii/</link>
+      <pubDate>Thu, 08 Jul 2021 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2021-07-08_stenotypia-przypomnienie-filozofii/</guid>
+      <description>Ponieważ zrozumienie, o co chodzi w stenotypii, jest kluczowe dla pojęcia, dlaczego może być przydatna, przypomnę krótko jej filozofię:
+Filozofia steno-klawiatury Objaśniam na przykładzie amerykańskim (polskiego jeszcze nie ma):
+Klawiatura dzieli się na 3 obszary:
+ lewy = nagłos (spółgłoski) dolny = głos (samogłoski) - wyciskany kciukami prawy = wygłos (spółgłoski)  Na środku znajduje się klawisz asterisk pełniący różnorakie role pomocnicze. Np. w Plover kasuje ostatnie wpisane słowo (jeśli naciśnięty samotnie).</description>
+    </item>
+    
+    <item>
+      <title>Stenotypia - drugi etap prac - dumania</title>
+      <link>https://www.stenografia.pl/blog/2021-07-01_stenotypia-2-etap-prac-dumania/</link>
+      <pubDate>Thu, 01 Jul 2021 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2021-07-01_stenotypia-2-etap-prac-dumania/</guid>
+      <description>Drugi etap W drugim etapie prac nad sporządzeniem polskiego systemu stenotypii miałem na bazie słownika i wynikających z niego sylab uczynić listę nagłosów i wygłosów. Otóż spieszę zawiadomić, że to uczyniłem.
+Musiałem przeryć się jeszcze raz przez słownik z ręczną robotą wspomaganą regexpem, co znowu mi trochę zajęło. W końcu stwierdziłem, że skończę to niekończące się poprawianie. W prawie 3 milionach wyrazów wrzucownych do słownika przez skrablistów naprawdę wszystko można znaleźć i prostowanie tego grozi przejściem na emeryturę przed zakończeniem drugiego etapu prac.</description>
+    </item>
+    
+    <item>
+      <title>Stenotypia - pierwszy etap prac zakończony</title>
+      <link>https://www.stenografia.pl/blog/2021-06-12_stenotypia-1_etap_prac_zakonczony/</link>
+      <pubDate>Sat, 12 Jun 2021 17:00:01 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2021-06-12_stenotypia-1_etap_prac_zakonczony/</guid>
+      <description>Pierwszy etap badań nad słownikiem polskim zakończony. Znaczy, drugiego podejścia do pierwszego etapu. Bo pierwsze podejście do pierwszego etapu odbyło się ohoho, już chyba z 6 lat temu. Nie mam pojęcia, co mnie wówczas oderwało od tego śmiałego planu&amp;hellip;
+Ale do rzeczy.
+Praca wykonana na słowniku liczącym ok. 2,7mln słów we wszystkich dostępnych im formach gramatycznych.
+Zostały te słowa podzielone na sylaby: wyszło ich ponad 17 tysięcy. Nieźle moim zdaniem. W literaturze przedmiotu natknąłem się na przypuszczenia, że zasadniczo w polskim powinno być około 6,5 tysiąca sylab.</description>
+    </item>
+    
+  </channel>
+</rss>

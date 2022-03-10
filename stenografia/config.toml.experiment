@@ -1,0 +1,162 @@
+baseurl = "https://www.stenografia.pl"
+title = "Stenografia"
+languageCode = "pl-pl"
+defaultContentLanguage = "pl"
+
+# number of words of summarized post content (default 70)
+summaryLength = 70
+# Define the number of posts per page
+paginate = 15
+
+## THEMES
+#theme = "ananke"
+#theme = "strange-case"
+theme = ["hugo-video", "steno-uni"]
+
+relativeurls = true
+footnoteReturnLinkContents = "↩"
+
+disqusShortname = "stenografia-pl" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-3262614-13" # Enable Google Analytics by entering your tracking id
+
+[Author]
+    name = "Krzysztof Stenografow"
+    bio = "Krzysztof Stenografow - ktoś i nikt zupełnie."
+    # avatar = "img/avatar.png"
+
+[Params]
+    subtitle = "Nondum lingua suum, dextra peregit opus" # Subtitle of your site
+    description = "Nondum lingua suum, dextra peregit opus" # Description of your site
+	sidebarFreeText = "Druga odsłona stenografii"
+	blogMirror = "https://tachygrafia.blogspot.com/"
+	# scheme-darkbrown scheme-lightbrown scheme-green scheme-orange scheme-slate scheme-gulfracing
+	# colorScheme = "scheme-darkbrown" 
+	colorScheme = "scheme-steno" 
+	#DateFormat = "2 Jan 2006"
+	DateFormat = "2006-01-02"
+	
+	#copyright = ""
+	#opengraph = true
+    #readmore = false # Show "Read more" button in list if true
+    #leftsidebar = false # Move sidebar to the left side if true
+    #authorbox = true
+    #post_navigation = true
+    #postSections = ["post"]
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[taxonomies]
+  category = "kategorie"
+  #tag = "tags"
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+######### MENU #############
+
+[menu]
+
+# Instead of glyphicons we use material icons
+# link: https://fonts.google.com/icons?selected=Material+Icons
+
+[[menu.main]]
+	name = "Strona główna "
+    identifier = "menu.home"
+	weight = -350
+	#post = "<span class='glyphicon glyphicon-off'></span>"
+	post = "<span class='material-icons'>face</span>"
+	url = "/"
+
+[[menu.main]]
+	name = "Wyszukiwarka"
+    parent = "menu.home"
+	weight = -330
+	#post = "<span class='glyphicon glyphicon-search'></span>"
+	post = "<span class='material-icons'>search</span>"
+	url = "/search/"
+
+[[menu.main]]
+	name = "O stenografii "
+    parent = "menu.home"
+	#post = "<span class='glyphicon glyphicon-pencil'></span>"
+	post = "<span class='material-icons'>drive_file_rename_outline</span>"
+	identifier = "stenografia"
+	url = "/stenografia/"
+	weight = -240
+	
+[[menu.main]]
+	name = "Stenografowie "
+    parent = "menu.home"
+	#post = "<span class='glyphicon glyphicon-user'></span>"
+	post = "<span class='material-icons'>person</span>"
+	identifier = "stenografowie"
+	url = "/stenografowie/"
+	weight = -230
+
+[[menu.main]]
+	name = "Blog stenograficzny "
+	identifier = "blog"
+	#post = "<span class='glyphicon glyphicon-send'></span>"
+	post = "<span class='material-icons'>create</span>"
+	url = "/blog/"
+	weight = -250
+
+
+### historia powszechna
+[[menu.main]]
+	name = "Historia Powszechna "
+    identifier = "menu.historia_powszechna"
+	#post = "<span class='glyphicon glyphicon-globe'></span>"
+	post = "<span class='material-icons'>language</span>"
+	identifier = "historia_powszechna"
+	url = "/historia_powszechna/"
+	weight = -190
+
+### historia polska
+[[menu.main]]
+	name = "Historia Polska "
+    identifier = "menu.historia_polska"
+	#post = "<span class='glyphicon glyphicon-home'></span>"
+	post = "<span class='material-icons'>home</span>"
+	identifier = "historia-polska"
+	url = "/historia_polska/"
+	weight = -180
+
+[[menu.main]]
+	name = "Różności "
+    identifier = "menu.misc"
+	#post = "<span class='glyphicon glyphicon-asterisk'></span>"
+	post = "<span class='material-icons'>lightbulb</span>"
+	identifier = "roznosci"
+	url = "/roznosci/"
+	weight = -170
+
+[[menu.main]]
+	name = "Repozytorium "
+	#post = "<span class='glyphicon glyphicon-book'></span>"
+	post = "<span class='material-icons'>book</span>"
+	identifier = "repo"
+	url = "/repo/"
+	weight = -160
+
+[[menu.main]]
+	name = "Mirror bloga na blogger.com "
+	#post = "<span class='glyphicon glyphicon-duplicate'></span>"
+	post = "<span class='material-icons'>file_copy</span>"
+	identifier = "mirror"
+	url = "https://tachygrafia.blogspot.com/"
+	weight = -110
+
+[[menu.main]]
+	name = "Kontakt "
+	post = "<span class='material-icons'>call</span>"
+	identifier = "kontakt"
+	url = "/kontakt/"
+	weight = -100
+

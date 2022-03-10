@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repozytorium on Stenografia</title>
+    <link>https://www.stenografia.pl/repo/</link>
+    <description>Recent content in Repozytorium on Stenografia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Fri, 12 Feb 2010 23:59:05 +0000</lastBuildDate><atom:link href="https://www.stenografia.pl/repo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filmy i filmiki</title>
+      <link>https://www.stenografia.pl/repo/filmy/</link>
+      <pubDate>Sat, 13 Feb 2021 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/repo/filmy/</guid>
+      <description>Zbiór filmów, które powstały i powstaną przy okazji prac nad stenografią i stenotypią.
+Film, który opublikował kolega z forum Plovera i pozwolił mi podzielić się nim z zainteresowanymi w Polsce:  ewentualnie
+  a jeżeli to nie zadziała, kliknij &amp;raquo;TUTAJ&amp;laquo;
+Dowodzi on, że pisanie stenotypiczne po polsku jest możliwe, skoro on użył metody Michela, wynalezionej dla języka włoskiego i w parę minut zastosował ją dla polskiego.</description>
+    </item>
+    
+    <item>
+      <title>Skrypty - pomoce naukowe do nauki stenografii</title>
+      <link>https://www.stenografia.pl/repo/skrypty_repo/</link>
+      <pubDate>Tue, 13 Dec 2011 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/repo/skrypty_repo/</guid>
+      <description>Zbiór skryptów, które powstały jako narzędzia pomocnicze do tworzenia systemu stenograficznego, a także jako pomoce naukowe w procesie uczenia się stenografii.
+ dyktanda - skrypt do generowania tekstu dyktanda. Dzieli go znacznikami czasowymi na odcinki, aby lektor mógł odczytywać z odpowiednią prędkością liczoną w sylabach na minutę.   </description>
+    </item>
+    
+    <item>
+      <title>Dyktanda - nagrania czytanek stenograficznych</title>
+      <link>https://www.stenografia.pl/repo/dyktanda/</link>
+      <pubDate>Mon, 12 Dec 2011 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/repo/dyktanda/</guid>
+      <description>Pierwsze próby stworzenia nagrań czytanek stenograficznych. Głównym bohaterem jest No-qanek, który swoim pięknym głosem i znakomitą dykcją z pewnością zmotywuje niejednego (niejedną) do intensywniejszej pracy nad stenografią.
+ 45 sylab na minutę, OGG 45 sylab na minutę, OGG 55 sylab na minutę, OGG 70 sylab na minutę, OGG 30 słów na minutę, MP3 - pierwsze nagranie próbne, trochę słabo słychać   Jeżeli chcielibyście dołożyć swoją cegiełkę do naszej pracy nad stenografią, zapraszamy.</description>
+    </item>
+    
+  </channel>
+</rss>
