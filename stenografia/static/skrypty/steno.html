@@ -1,0 +1,84 @@
+
+<!-- saved from url=(0028)http://oddjoy.org/steno.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><center>
+<br><br>
+<script type="text/javascript">
+var the_keys = new Array();
+var dictionary = { "S": "zażółć",
+"T": "gęślą",
+"ST": "Krzysztof Smirnow",
+"P": "jaźń",
+"H": "na",
+"K":"temat",
+"W": "stenografii",
+
+
+}
+
+var alpha      ="qwertyuiop[asdfghjkl;'cvnm";
+var steno_alpha="STPH**FPLTDSKWR**RBGSZAOEU";
+var steno_order="STKPWHRAO*EUFRPBLGTSDZ";
+
+function updateDisplay(trial){
+	var orig=trial;
+    trial = trial.toLowerCase();
+	trial = Convert2Steno(trial);
+	trial = StenoAlphabetize(trial);
+
+    if (the_keys[the_keys.length-1] != trial)	
+		the_keys.push(trial);					
+												
+    var total = " ";
+    for (var variable=1;variable<=the_keys.length;variable+=1)
+		total += " " + retrieveEntry(the_keys[variable-1]);
+	var steno = trial;
+	trial = retrieveEntry(trial);
+    document.getElementById('keys').innerHTML=orig+"="+steno + '<br /><br />Tłumaczenie: ' + trial + '<br /><br />' + total;
+}
+
+function compfunc(a,b){
+	return steno_order.indexOf(a)>steno_order.indexOf(b);
+}
+
+function StenoAlphabetize(trial){
+	trial=trial.split("");					//Separate characters into array
+	trial.sort(compfunc);					//Alphabetize according to steno rules
+	trial=trial.toString().replace(/,/g,"")	//Turn array into string and strip commas
+	return trial;
+}
+
+function Swap2Steno(trial){
+	var alpha_pos=alpha.indexOf(trial);
+	if(alpha_pos==-1)
+		return '';
+	else
+		return steno_alpha[alpha_pos];
+}
+
+function Convert2Steno(trial){
+    var interim = "";
+    for (i=0;i<trial.length;i++)
+		interim+=Swap2Steno(trial[i]);
+	return interim;
+}
+
+function retrieveEntry(entry){
+	if(dictionary[entry])
+		return dictionary[entry];
+	return entry;
+}
+
+</script>
+<form>
+<input id="keyinput" style="width:100px;" 
+onkeydown="if(document.getElementById(&#39;keys&#39;).innerHTML != &#39;&#39;) this.value=&#39;&#39;; 
+document.getElementById(&#39;keys&#39;).innerHTML=&#39;&#39;" 
+onkeyup="updateDisplay(this.value);">
+</form>
+<p style="width: 600px;">
+Kod stenotypiczny: <span id="keys"><br>
+<br>Tłumaczenie: <br>
+<br></span>
+<noscript>(Niestety, bez Javascriptu nie da się wypróbować tego programiku... Uruchom JavaScript i spróbuj ponownie.)</noscript> </p>
+</center>
+</body></html>
