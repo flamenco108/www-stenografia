@@ -6,20 +6,29 @@
     <description>Recent content in Kategorie on Stenografia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Tue, 15 Feb 2022 23:59:59 +0000</lastBuildDate><atom:link href="https://www.stenografia.pl/kategorie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 23:59:59 +0000</lastBuildDate><atom:link href="https://www.stenografia.pl/kategorie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plover</title>
       <link>https://www.stenografia.pl/kategorie/plover/</link>
-      <pubDate>Tue, 15 Feb 2022 23:59:59 +0000</pubDate>
+      <pubDate>Sun, 22 May 2022 23:59:59 +0000</pubDate>
       
       <guid>https://www.stenografia.pl/kategorie/plover/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>stemi</title>
+      <link>https://www.stenografia.pl/kategorie/stemi/</link>
+      <pubDate>Sun, 22 May 2022 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/kategorie/stemi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>stenotypia</title>
       <link>https://www.stenografia.pl/kategorie/stenotypia/</link>
-      <pubDate>Tue, 15 Feb 2022 23:59:59 +0000</pubDate>
+      <pubDate>Sun, 22 May 2022 23:59:59 +0000</pubDate>
       
       <guid>https://www.stenografia.pl/kategorie/stenotypia/</guid>
       <description></description>
@@ -58,15 +67,6 @@
       <pubDate>Fri, 06 Aug 2021 23:59:59 +0000</pubDate>
       
       <guid>https://www.stenografia.pl/kategorie/prezentacje/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stemi</title>
-      <link>https://www.stenografia.pl/kategorie/stemi/</link>
-      <pubDate>Fri, 06 Aug 2021 23:59:59 +0000</pubDate>
-      
-      <guid>https://www.stenografia.pl/kategorie/stemi/</guid>
       <description></description>
     </item>
     
