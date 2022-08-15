@@ -8,6 +8,16 @@
     <language>pl-pl</language>
     <lastBuildDate>Sat, 15 May 2021 23:59:00 +0000</lastBuildDate><atom:link href="https://www.stenografia.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Podręcznik do stenotypii już gotowy!</title>
+      <link>https://www.stenografia.pl/blog/2022-08-15-podrecznik_stenotypii/</link>
+      <pubDate>Mon, 15 Aug 2022 13:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2022-08-15-podrecznik_stenotypii/</guid>
+      <description>Po miesiącach milczenia pora na aktualizację. A pomimo sezonu ogórkowego dzieje się. I to sporo, jak na tak malutką niszę. O czym będzie poniżej.
+Wspaniała wiadomość Trzy dni temu dosłownie Priscilla Trillo wysłała mi krótką wiadomość poprzez Discorda (gdzie działa grupa użytkowników systemu stenotypicznego Plover) z wiadomością, że podręcznik do stenotypii zachodniosłowiańskiej (tj. polskiej, czeskiej i słowackiej zarazem) już jest gotowy. Pisałem i publikowałem ongiś zrzut ekranu z listy stron dzieła.</description>
+    </item>
+    
+    <item>
       <title>Aktualizacja</title>
       <link>https://www.stenografia.pl/blog/2022-05-22-aktualizacja/</link>
       <pubDate>Sun, 22 May 2022 23:59:59 +0000</pubDate>
@@ -22,6 +32,17 @@
       <pubDate>Wed, 30 Mar 2022 23:59:59 +0000</pubDate>
       
       <guid>https://www.stenografia.pl/blog/2022-03-30_powoli_do_przodu/</guid>
+      <description>Niestety, wszyscy wiemy, co się na świecie porobiło, a konkretnie zaraz za naszą wschodnią granicą. Popadłem z tego tytułu w niejakie pomięszanie i tempo przetwarzania pliku rules.cson.in mocno spadło. W pracy zajęci jesteśmy organizacją rejestracji numerów PESEL dla ukraińskich uchodźców, a trzeci poziom bezpieczeństwa informatycznego zwany Charlie-CRP powoduje, że moje obowiązki rozciągają się poza godziny robocze.
+Zatem w kwestii rozwoju systemu nie mam wiele do opowiedzenia.
+Trillo znowu w grze Po dwóch miesiącach milczenia Priscilla Trillo znowu się odezwała.</description>
+    </item>
+    
+    <item>
+      <title>Znowu powoli do przodu</title>
+      <link>https://www.stenografia.pl/blog/2022-03-30_znowu_powoli_do_przodu/</link>
+      <pubDate>Wed, 30 Mar 2022 23:59:59 +0000</pubDate>
+      
+      <guid>https://www.stenografia.pl/blog/2022-03-30_znowu_powoli_do_przodu/</guid>
       <description>Niestety, wszyscy wiemy, co się na świecie porobiło, a konkretnie zaraz za naszą wschodnią granicą. Popadłem z tego tytułu w niejakie pomięszanie i tempo przetwarzania pliku rules.cson.in mocno spadło. W pracy zajęci jesteśmy organizacją rejestracji numerów PESEL dla ukraińskich uchodźców, a trzeci poziom bezpieczeństwa informatycznego zwany Charlie-CRP powoduje, że moje obowiązki rozciągają się poza godziny robocze.
 Zatem w kwestii rozwoju systemu nie mam wiele do opowiedzenia.
 Trillo znowu w grze Po dwóch miesiącach milczenia Priscilla Trillo znowu się odezwała.</description>
