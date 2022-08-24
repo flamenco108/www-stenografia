@@ -9,19 +9,19 @@ kategorie: ["plover", "stenotypia", "stemi"]
 
 ### Kochani czytelnicy!
 
-Ponieważ w świecie stenotypii nic się ostatnio specjalnie nie dzieje postanowiłem 
-na chwilę choć przejść do świata stenografii. (pióro mi się wypisue...) 
-I ten wpis postaniłem napisać stenograficznie po prostu dlatego żeby 
-potwierdzić że ta metoda wciąż jest dostępna i można jej używać. 
-Niestety Priszczyla Trilo się nie odsywa i nie wiem kiedy postanowi to 
-zrobić. Z robót przewstępnych pozostało mi tylko do-kończyć plik 
-RULES.CSON.IN który zawierać będzie wszystkie reguły dot. stenotypii. 
-Zostało mi tylko zaledwie kilkadziesiąt linii do poprawienia. A potem zostanie tylko 
-czekać.
+Ponieważ w świecie stenotypii nic się ostatnio specjalnie nie dzieje postanowiłem  
+na chwilę choć przejść do świata stenografii. (pióro mi się wypisue...)  
+I ten wpis postaniłem napisać stenograficznie po prostu dlatego żeby  
+potwierdzić że ta metoda wciąż jest dostępna i można jej używać.  
+Niestety Priszczyla Trilo się nie odsywa i nie wiem kiedy postanowi to  
+zrobić. Z robót przewstępnych pozostało mi tylko do-kończyć plik  
+RULES.CSON.IN który zawierać będzie wszystkie reguły dot. stenotypii.  
+Zostało mi tylko zaledwie kilkadziesiąt linii do poprawienia. A potem zostanie tylko  
+czekać.  
 
-Poza tym nic się u nas nie dzieje. Jednak mam nadzieję że niedługo 
-coś zacznie. Bo przydałoby się pchnąć sprawy do przodu. Z poważaniem 
-Krzysztof 
+Poza tym nic się u nas nie dzieje. Jednak mam nadzieję że niedługo  
+coś zacznie. Bo przydałoby się pchnąć sprawy do przodu. Z poważaniem   
+Krzysztof  
 Stenografow
 
 --------
