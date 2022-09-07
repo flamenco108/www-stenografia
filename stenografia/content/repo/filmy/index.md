@@ -11,10 +11,26 @@ Zbiór filmów, które powstały i powstaną przy okazji prac nad stenografią i
 
 {{< video autoplay="true" loop="true" src="2021-07-14-Polskie-steno--Melani" >}}
 
-ewentualnie
+<!-- ewentualnie -->
 
 {{< youtube src="rFle2rwgaPY" >}}
 
 a jeżeli to nie zadziała, kliknij [>>TUTAJ<<](https://www.youtube.com/watch?v=rFle2rwgaPY)
 
+Albo tu:
+
+{{< yt rFle2rwgaPY >}}
+
 Dowodzi on, że pisanie stenotypiczne po polsku jest możliwe, skoro on użył metody Michela, wynalezionej dla języka włoskiego i w parę minut zastosował ją dla polskiego.
+
+### 2022-09-05 Ćwiczenie nr 2 - prezentacja
+
+A po opublikowaniu przez Priscillę Trillo podręcznika do stenotypii zabrałem się do ćwiczenia i poniżej prezentacja moich pierwszych wysiłków:
+
+{{< youtube src="G6oX7uU5tDU" >}}
+
+Albo tu:
+
+{{< yt G6oX7uU5tDU >}}
+
+Nie idzie łatwo, ale powoli do przodu.
