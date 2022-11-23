@@ -39,7 +39,9 @@
 						{{/*
                         <span>{{ .Date.Format "Jan 2, 2006" }}{{ if .Params.author }} by {{ .Params.author }}{{ end }}</span>
                         */}}
-						<span>{{ .Date.Format "2006-01-02" }}{{ if .Params.author }} autor: {{ .Params.author }}{{ end }}</span>
+						<span>{{ .Date.Format "2006-01-02" }}{{ if .Params.author }} autor: {{ .Params.author }}{{ end }} 
+                            kategorie: {{ range .Params.categories }}{{ . }}{{ end }}
+                        </span>
 					</div>
 					
 					<!-- zawartość wpisu na liście - nie chcemy, chcemy tylko tytuł i ew. zajawkę, ale to się zrobi potem 

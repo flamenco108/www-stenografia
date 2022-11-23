@@ -16,7 +16,9 @@
 				<!-- date and author removed to the bottom of the page -->
 					<div class="post-heading">
 						<h1>{{ .Title }}</h1>
-						<span><em>{{ .Date.Format "2006-01-02" }}</em> | {{ if .Params.author }} autor: {{ .Params.author }}{{ end }}</span>
+						<span><em>{{ .Date.Format "2006-01-02" }}</em> | {{ if .Params.author }} autor: {{ .Params.author }}{{ end }} | 
+                           <!-- {{/* kategorie: {{ range .Params.kategorie }}{{ . }}{{ end }}</span> */}} -->
+                            kategorie: {{ with .Params.kategorie }}{{ delimit . ", " }}{{ end }}</span>
 					</div>
 					
 					{{ .TableOfContents }}
