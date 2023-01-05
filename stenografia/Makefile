@@ -101,6 +101,10 @@ serve:
 #	$(BASEDIR)/develop_server.sh stop
 #	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
+draft:
+#    $(HUGO) -D -E -F    
+	$(HUGO) server -DEF 
+
 publish:
 #	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	$(HUGO)
