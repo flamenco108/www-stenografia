@@ -10,9 +10,10 @@ Author: Krzysztof Smirnow
 
 **[Więcej na ten temat TU](https://senat.edu.pl/historia/diariusze/)**
 
-![Diariusz sejmowy z sejmu walnego w Piotrkowie w 1548 roku](http://www.trybunal.gov.pl/wszechnica/wystawa/gal/239/216/162/med.jpg)
 
-*Diariusz sejmowy z sejmu walnego w Piotrkowie w 1548 roku*
+{{< figure src="diariusz.jpg" title="Diariusz sejmowy z sejmu walnego w Piotrkowie w 1548 roku" >}}
+
+
 
 
 
@@ -39,10 +40,13 @@ i najmocniejszy przykład:
 
 <!-- ![Diariusz sejmowy z końca XVIII wieku](https://upload.wikimedia.org/wikipedia/commons/c/c0/Polish_Sejm_1788-1792.PNG) -->
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Polish_Sejm_1788-1792.PNG" title="Diariusz sejmowy z końca XVIII wieku 🠕" >}}
+
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Official_diary_of_the_Great_Sejm_of_the_Polish%E2%80%93Lithuanian_Commonwealth%2C_1788-1792.png" title="Diariusz sejmowy z końca XVIII wieku 🠕" >}}
 
 <!-- *Diariusz sejmowy z końca XVIII wieku* -->
 
+**[>>Diariusz Sejmu Czteroletniego (transkrypcja)<<](https://www.wbc.poznan.pl/dlibra/publication/20159/edition/32995/content)**
 
 
 W pamiętnikach 
@@ -89,9 +93,9 @@ wykłady uniwersyteckie. Wiadomo też, że
 , w czasie, kiedy był kuratorem oświaty w Wilnie, prześladował uczniów, u których znaleziono notatki stenograficzne, podejrzewając ich o pismo tajemne. Jeżeli filomaci mieli kontakt z dekabrystami (a raczej mieli na uniwersytecie w Petersburgu), to należy przypuszczać, że zetknęli się z rosyjską 
 [Grafodromią](http://blogs.princeton.edu/graphicarts/2010/09/graphodromie_ou_ecriture_cursi.html)
 ,
-autorstwa kolegi 
+autorstwa licealnego kolegi 
 [Puszkina](https://pl.wikipedia.org/wiki/Aleksander_Puszkin)
- z liceum, barona 
+, barona 
 [Modesta Adriejewicza Korffa](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%84,_%D0%9C%D0%BE%D0%B4%D0%B5%D1%81%D1%82_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87)
 . 
 Zetknąłem się wszakże z hipotezą, że stenografia, którą się posługiwali, była autorstwa
@@ -108,9 +112,6 @@ siedzi zamknięty w swej klatce, w której zaledwo jego pulpit się
 pomieści, i chwyta każde słowo mówcy, którego cała zasługa na tem
 częstokroć polega, że w kilku minutach potok słów wyleje.*(…) 
 
-A najstarszym opublikowanym systemem jest metoda, którą opracował
-Kazimierz Krupski.
-
 Samego Mickiewicza 
 [stenografowali](http://books.google.pl/books?id=vRFEAAAAYAAJ&pg=PR17&dq=stenografia+mickiewicz&hl=pl&ei=E00qTLH7LM-msQamzpDEBA&sa=X&oi=book_result&ct=result&resnum=3&ved=0CDQQ6AEwAg#v=onepage&q&f=false) 
 jego wielbiciele i studenci, kiedy prowadził 
@@ -118,6 +119,11 @@ jego wielbiciele i studenci, kiedy prowadził
 w 
 [Kolegium Francuskim](https://pl.wikipedia.org/wiki/Coll%C3%A8ge_de_France)
 , w latach 40-tych XIX wieku, w Paryżu.
+
+A najstarszym opublikowanym systemem jest metoda, którą opracował
+Kazimierz Krupski.
+
+
 
 
 
@@ -159,11 +165,11 @@ także stosowanie skrótów dla najczęściej używanych wyrazów, które
 należało po prostu nauczyć się na pamięć.
 
 Późniejsi stenografowie skrytykowali przede wszystkim pozycyjność
-systemu, która była trudna do utrzymania i utrudniała czytelność: ”W
+systemu, która była trudna do utrzymania i utrudniała czytelność: ”*W
 całym układzie widzimy tylko dążność, aby jednem poruszeniem ręki każdy
 znak wypisywać, mniej zaś baczności - a nawet spostrzegamy i zupełne
 zapoznanie sposobów takiego samego wyrażenia całych zgłosek, co jedynie
-zbliżyć może pismo stenograficzne do ideału szybkości i łatwości”
+zbliżyć może pismo stenograficzne do ideału szybkości i łatwości*”
 (Felicjan Jackowski).
 
 Podręcznik do systemu Kazimierza Krupskiego, napisany w roku 1828,
@@ -174,7 +180,7 @@ powstającej konkurencji i nie trzeba było wiele trudu, żeby to zauważyć.
 W międzyczasie pojawiło się kilka innych systemów, znacznie go
 przewyższających.
 
-**Więcej o systemie Krupskiego przeczytamy w [artykule Lecha Klewżyca](../krupski-kazimierz/), zamieszczonego w Stenografie Polskim z roku 1963, nr 1(83).**
+**Więcej o systemie Krupskiego przeczytamy w >> [artykule Lecha Klewżyca](../krupski-kazimierz/) <<, zamieszczonego w Stenografie Polskim z roku 1963, nr 1(83).**
 
 
 
@@ -210,7 +216,7 @@ Książka zawierała wiele interesujących spostrzeżeń, jak
 „*samogłoski są mniej istotnemi wyrazów członkami, najjaśniej (to) widzieć w pisowni języków wschodnich*” 
 i kuriozalnych rad, np. jak obejść się bez pióra i
 atramentu, kiedy koniecznie chce nam się pisać: 
-„*Namazawszy masą tłustą z sadzami zmieszaną arkusz papieru, połóż na nim czysty arkusz jedwabnego papieru oliwą napuszczony, ten przyjmuje kolor podłożonego arkusza wszędzie, gdzie rylec, którym kreślisz, przechodzi. Chcąc przeczytać, co napisano, przyłóż popisany arkusz do czystego białego. Umieściwszy papier poczerniony pomiędzy dwoma olejnemi, otrzymasz od razu dwa egzemplarze. Rylec do pisania robi się z ciał twardych, z drutu, kości, rogu bukszpanu, hebanu*”.
+„*Namazawszy masą tłustą z sadzami zmieszaną arkusz papieru, połóż na nim czysty arkusz jedwabnego papieru oliwą napuszczony, ten przyjmuje kolor podłożonego arkusza wszędzie, gdzie rylec, którym kreślisz, przechodzi. Chcąc przeczytać, co napisano, przyłóż popisany arkusz do czystego białego. Umieściwszy papier poczerniony pomiędzy dwoma olejnemi, otrzymasz od razu dwa egzemplarze. Rylec do pisania robi się z ciał twardych, z drutu, kości, rogu, bukszpanu, hebanu*”.
 
 
 System stenograficzny Pysza oparty był ideowo o francuski przekład systemu 
@@ -326,7 +332,7 @@ symbolicznych oznaczeń, co miało przyspieszyć zapis.
 
 
 Najciekawsze miał podejście do kwestii skracania wyrazów oraz innych,
-niestenograficznych technik przyspieszania zapisu: „*Niektóre wyrazy mniej znaczne, a nie naruszające myśli, można opuścić, np. »w krótszym daleko czasie itd.*”.
+niestenograficznych technik przyspieszania zapisu: „*Niektóre wyrazy mniej znaczne, a nie naruszające myśli, można opuścić, np. »w krótszym daleko czasie<< itd.*”.
 
 Zgodnie ze świadectwem Ludwika Jenike, broszurka z podręcznikiem została
 w roku 1864 wyszydzona na łamach „Kurjera Niedzielnego”, na co Saxe odpowiedział czterowierszem Brodzińskiego:
@@ -418,8 +424,8 @@ Gabelsbergera-Polińskiego.
 Bodaj najbezczelniejszy propagator swojego systemu, lub może
 hohsztapler. W roku 1923 przed Wielkanocą rozesłał do wszystkich szkół
 gimnazjalnych i zawodowych po kilkadziesiąt egzemplarzy drukowanego
-„Listu o stenografji z datą III 1923 stron 4 od Biura Stenografów w
-Warszawie, Zielna 3-20, podpisano dyrektor Jan Rowiński”. Do dokumentu
+„*Listu o stenografji z datą III 1923 stron 4 od Biura Stenografów w
+Warszawie, Zielna 3-20, podpisano dyrektor Jan Rowiński*”. Do dokumentu
 tego dołączony był list pisany na maszynie do dyrekcji danej szkoły z
 prośbą o polecenie uczniom prenumeraty „Listów stenograficznych”.
 Rowiński zwracał się tam do „Drogiego Kolegi” zachęcając do „*nauki

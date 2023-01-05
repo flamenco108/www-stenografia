@@ -22,7 +22,7 @@ Anglia. Współcześni historycy wskazują na korelację pojawienia się
 stenografii i parlamentaryzmu wraz z intensywnym rozwojem gospodarczym i
 naukowym oraz - Reformacją.
 
-# Reformacja
+## Reformacja
 
 
 
@@ -49,7 +49,7 @@ wykwalifikowani zawodowcy.
 
 
 
-# Timothy Bright
+## Timothy Bright
 
 
 
@@ -117,7 +117,7 @@ były wcześniej zaprojektowane przez autora.
 
 
 
-# Szekspir i piraci
+## Szekspir i piraci
 
 
 
@@ -148,14 +148,14 @@ Poniżej strona z zapisu [Listu do Tytusa](https://pl.wikipedia.org/wiki/List_do
 
 
 
-# Eksplozja stenografii
+## Eksplozja stenografii
 
 
 
 
 
 
-## Peter Bales
+### Peter Bales
 
 
 
@@ -215,7 +215,7 @@ oznaczało to inną samogłoskę) dla symbolizowania samogłosek w sylabie.
 
 
 
-## John Willis
+### John Willis
 
 
 
@@ -266,7 +266,7 @@ przymierzając, grzyby po deszczu.
 
 
 
-## Thomas Shelton
+### Thomas Shelton
 
 
 
@@ -314,7 +314,7 @@ nie zdobyła ona popularności.
 
 
 
-## Wiliam Mason
+### Wiliam Mason
 
 
 

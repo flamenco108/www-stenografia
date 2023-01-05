@@ -12,7 +12,7 @@ Author: Krzysztof Smirnow
 
 
 
-Urodził się 11 marca 18 roku w Żórawnie. Po ukończeniu gimnazjum w
+Urodził się [11 marca 1825 roku w Żórawnie](http://www.sejm-wielki.pl/b/psb.20662.1). Po ukończeniu gimnazjum w
 Brzeżanach, w roku 1843 zapisał się na Uniwersytet Lwowski, na Wydział
 Filozofii, na który ostatecznie uczęszczał jako wolny słuchacz
 (prywatysta). Karierę urzędniczą zaczął w tym samym czasie jako
@@ -20,8 +20,8 @@ praktykant i dalej poborca podatkowy Dyrekcji skarbowej w Stryju. W
 marcu 1849 roku został wzięty do armii, w której po odsłużeniu tury
 poboru został na ochotnika aż do roku 1860, kiedy ustąpił w stopniu
 porucznika z prawem noszenia medalu wojennego za udział w kampanii
-włoskiej lat 1848/49. Ożenił się w 1861 roku z kobietą, która czekała na
-niego przez cały jego czas służby wojskowej, Julią z Huberów.
+włoskiej lat 1848/49. Ożenił się w 1861 roku z Julią z Huberów, kobietą, która czekała na
+niego przez cały czas jego służby wojskowej.
 Małżonkowie osiedli w rodzinnej posiadłości w Tejsarowie.
 
 <!-- ![Pliki:olewinski\_z\_zono.png]({filename}/pliki/HistoriaPolska/SystemOlewinskiego/olewinski_z_zono.png) -->
@@ -47,8 +47,8 @@ urzędników ministerstwa. Olewiński w 1863 roku przyjął też posadę
 stałego nauczyciela stenografii we Wszechnicy Lwowskiej, a rok później
 miał okazję poznać jednego z największych badaczy pisma, a w tym i
 twórcy systemu stenograficznego, 
-[Karola Faulmanna](http://de.wikipedia.org/wiki/Carl_Faulmann)
-.
+[Karola Faulmanna](http://de.wikipedia.org/wiki/Carl_Faulmann).
+
 W podręczniku, który opublikował w odcinkach na zasadzie prenumeraty,
 zastosowano, zamiast litografowanych tablic, ruchome czcionki
 stenograficzne Faulmanna. Swój system próbował przystosować do języka

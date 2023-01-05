@@ -22,8 +22,10 @@ człowiekiem-orkiestrą.
 
 Urodzony 9 kwietnia 1843 roku w Zakopanem, kształcił się we Lwowie i
 Pradze oraz na Technice w Krakowie. Całe zawodowe życie, od 1869 do 1905
-roku przepracował jako inżynier [Kolei Północnej](https://pl.wikipedia.org/wiki/Kolej_P%C3%B3%C5%82nocna). Zmarł w Wiedniu 24
+roku przepracował jako inżynier [Kolei Północnej](https://pl.wikipedia.org/wiki/Kolej_P%C3%B3%C5%82nocna)[^1]. Zmarł w Wiedniu 24
 czerwca 1912 roku.
+
+[^1]: UWAGA! Kolei Północnej, nie - Korei Północnej!
 
 Jeszcze jako uczeń gimnazjum we Lwowie opanował niemiecką metodę
 Gabelsbergera i eksperymentował, próbując zapisywać nią słowa polskie
@@ -147,10 +149,10 @@ samym stopniu korzystał ze wskazówek Stolzego (dla dźwięków podobnych
 znaki podobne). Fachowcy wskazują też na pewne podobieństwa do systemu
 Faulmanna, choć po przeanalizowaniu systemu trudno mi wskazać konkrety.
 Tak czy owak, przeciwnie do twórców niemieckich, stosuje Suchecki
-[wokalizację przedgłosową zamiast zagłosowej](../slownik/).
+[wokalizację przedgłosową zamiast zagłosowej](../../roznosci/slownik/).
 
 <!-- ![Pliki:suchecki\_alfabet\_R.png]({filename}/pliki/HistoriaPolska/SucheckiMiroslaw/suchecki_alfabet_R.png) -->
-{{< figure src="suchecki_alfabet_R.png" title="Zastosowanie głoski **R*" >}}
+{{< figure src="suchecki_alfabet_R.png" title="Zastosowanie głoski R" >}}
 <!-- *Zastosowanie głoski **R*** -->
 
 

@@ -182,14 +182,16 @@ Ale dodając samogłoski do z natury skrótowego fenickiego abdżadu, stworzyli
 [alfabet](https://pl.wikipedia.org/wiki/Alfabet), który dla szybkiego zapisu
 trzeba było skracać. Tak się zaczęła praca nad pierwszymi metodami stenograficznymi.
 
+{{< figure src="acropolistein.jpg" title="Kamień Akropolski" >}}
+
 Ze starożytnej Grecji zachowały się przekazy (Plutarch, Diogenes
 Laertios) o [Ksenofoncie](https://pl.wikipedia.org/wiki/Ksenofont), 
 żołnierzu, historyku i uczniu Sokratesa, który
 ponoć wynalazł specjalny system zapisu, żeby zdążyć zarejestrować mowy
 swojego mistrza. Było to ok. roku 399p.n.e.
 
-Ślad jego systemu zachował się na tzw. kamieniu akropolskim. Wojna
-peloponeska przerwała rozwój tego systemu, pisma zaginęły. Próby rekonstrukcji podjął się genialny badać systemów piśmienniczych Carl Faulmann:
+Ślad jego systemu zachował się na tzw. Kamieniu Akropolskim. Wojna
+peloponeska przerwała rozwój tego systemu, pisma zaginęły. Próby rekonstrukcji podjął się genialny badacz systemów piśmienniczych Carl Faulmann:
 
 {{< figure src="faulmann012.png" title="Rekonstrukcja greckiej tachygrafii" >}}
 

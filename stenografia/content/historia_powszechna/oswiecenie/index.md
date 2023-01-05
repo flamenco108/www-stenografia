@@ -29,7 +29,7 @@ niszowe, zajęcie w krajach anglosaskich.
 
 
 
-# Thomas Gurney, David Copperfield i Karol Dickens
+## Thomas Gurney, David Copperfield i Karol Dickens
 
 
 
@@ -42,7 +42,7 @@ zaadaptował alfabet
 i w 1753 roku opublikował system stale używany w sądach i parlamentach
 brytyjskich aż do utrwalenia się pozycji Fonografii Pitmana. 
 [Karol Dickens](https://pl.wikipedia.org/wiki/Karol_Dickens)
-posługiwał się stale tym systemem od kiedy nauczył się go, by zdobyć
+posługiwał się stale tym systemem, od kiedy nauczył się go, by zdobyć
 pracę jako sprawozdawca parlamentarny. W swojej powieści pod tytułem
 „David Copperfield” pozwolił sobie na żarty, choć dobrze opisujące męki
 samouka:
@@ -96,26 +96,29 @@ w roku 1987.
 
 
 
-# John Byrom
+## John Byrom
 
 
 
 
 John Byrom był z powołania poetą. Po osiągnięciu tytułu Magistra Sztuk
-(Master of Arts) w Kolegium św. Trójcy, odmówił przyjęcia święceń, za to
-prawdopodobnie zaangażował się w ruch jakobicki (nie mylić z
-jakobińskim). Zapisał się też jako założyciel dwóch sekretnych
+(Master of Arts) w Kolegium św. Trójcy (Uniwersytet w Oxfordzie), 
+odmówił przyjęcia święceń, za to
+prawdopodobnie zaangażował się w ruch [jakobicki](https://pl.wikipedia.org/wiki/Jakobici_(polityka)) (nie mylić z
+[jakobińskim](https://pl.wikipedia.org/wiki/Jakobini)). Zapisał się też jako założyciel dwóch sekretnych
 organizacji: *The Cabala Club* oraz *Societas Tachygraphica*, a system
 stenograficzny ogłosił dopiero w roku 1767, kiedy był już 77-letnim
 starcem. Błędne (z dzisiejszego punktu widzenia) wybory polityczne
 sprawiły, że przez całe życie cierpiał jeżeli nie biedę, to w każdym
-razie na brak pieniędzy. Pozostawanie przez jakiś czas kochankiem
-Karoliny Wilhelminy Charlotty Brandenburg-Ansbach, wówczas księżnej
-Walii, później królowej Brytanii i Irlandii, zrobienie rogacza z jej
-męża, Jerzego II, najwyraźniej jego sytuacji nie poprawiło, choć
-przecież król (znacznie później) obdarzył go w 1739 roku 21-letnim
-patentem na publiczne nauczanie stenografii jego metodą (co wówczas
-oznaczało prawo wyłączności), a kilka lat później Towarzystwo Królewskie
+razie na brak pieniędzy. 
+Pozostawanie przez jakiś czas kochankiem
+[Karoliny Wilhelminy Charlotty Brandenburg-Ansbach](https://pl.wikipedia.org/wiki/Karolina_z_Ansbachu), wówczas księżnej
+Walii, później królowej Brytanii i Irlandii najwyraźniej jego sytuacji nie poprawiło. 
+Jej mąż-rogacz, [Jerzy II](https://pl.wikipedia.org/wiki/Jerzy_II_Hanowerski)
+nie był pamiętliwy, bo obdarzył go przecież w 1739 roku 21-letnim
+patentem na publiczne nauczanie stenografii własną metodą (co wówczas
+oznaczało prawo wyłączności).
+Kilka lat później Towarzystwo Królewskie
 raczyło wysłuchać na ten temat odczytu. Z braku funduszy Byrom nigdy nie
 wydał swojej pracy drukiem, co niekorzystnie wpłynęło na popularność
 metody. Choć uczył jej już w 1720 roku, a w 1724 został członkiem
@@ -140,7 +143,7 @@ pozycjach wobec znaku spółgłoskowego.
 {{< figure src="byrom-shorthand.png" title="Alfabet Byroma" >}}
 
 Ostatecznie został zapamiętany jako ojciec „racjonalnej stenografii” -
-jako pierwszy posłużył się spostrzeżeniami, że w języku angielskim
+pierwszy posłużył się spostrzeżeniami, że w języku angielskim
 obowiązuje ograniczona liczba końcówek, która jeszcze się zmniejsza,
 kiedy zapisać je fonetycznie (np. -tion = -shun), dla których można
 ustalić pewne łatwe do nauczenia się znaczki.
@@ -149,7 +152,7 @@ ustalić pewne łatwe do nauczenia się znaczki.
 
 
 
-# Samuel Taylor
+## Samuel Taylor
 
 
 
@@ -197,7 +200,7 @@ sztucznych much do połowu szczupaków.
 
 
 
-# Bertin, Delpino, Saxe i inni
+## Bertin, Delpino, Saxe i inni
 
 
 
@@ -217,7 +220,7 @@ konkurencja.
 
 
 
-# Simon George Bordley
+## Simon George Bordley
 
 
 

@@ -1,4 +1,34 @@
 ---
+Title: Wstępniak 2023
+Date: 2023-01-01T01:01:01
+Slug: index
+Author: Krzysztof Smirnow
+---
+
+Drodzy Czytelnicy[^1]
+
+[^1]: Mam oczywiście na myśli zarówno Czytelniczki jak i Czytelników.
+
+Zapraszam do lektury zgromadzonych tu materiałów. Mam nadzieję, że dowiecie się tutaj
+czegoś nowego o tej fascynującej, a zamierającej, dziedzinie ludzkiej wiedzy i innowacyjności,
+jakim jest **stenografia** i **stenotypia**.
+
+Na początek rada: *obrazki umieszczone na stronach często są większe, niż wyglądają. Należy kliknąć w nie prawym przyciskiem myszy i kazać je otworzyć w nowej karcie przeglądarki, wtedy ukażą się w pełnej okazałości*.
+
+Poniżej uwagi i linki, które mogą się przydać:
+- odświeżyć samouczek do [**>> SteMi <<**](../../blog/2013-02-28_kurs-stemi-lekcja-01/) - ciągle mi się to nie udało,
+- zapraszam do zapoznania się też z pierwszym [**>> derywatem zwanym SteMi_J <<**](blog/2022-11-20-stenografia_stemi_j/), który bardzo możliwe, że przypadnie do gustu piszącym prawą ręką jako szybszy a wciąż tak samo czytelny,
+- wkrótce może się ukazać także opis polskiego systemu stenografii typu geometrycznego,
+- prace nad polskim systemem [**>> stenotypii <<**](https://www.stenografia.pl/blog/2021-07-08_stenotypia-przypomnienie-filozofii/) postępują powoli, wiele tu zależy od pomocy wykwalifikowanych komputerowców, którzy przy pomocy dobrych skryptów wygenerują niezbędne słowniki, pomoce dydaktyczne, itp.,
+- [**>> TUTAJ <<**](blog/2010-12-04_wprowadzenie-do-stenografii-maszynowej/) możecie przeczytać tłumaczenie artykułu o stenotypii napisanego przez profesjonalistę,
+- pierwsze zręby oprogramowania do polskiego systemu stenotypii już można oglądać [**>> TU <<**](https://github.com/flamenco108/plover_polish_slowik), 
+- kto chce, ten może sobie zainstalować powyższą wtyczkę do [**>> programu Plover <<**](https://www.openstenoproject.org/plover/),
+- zanim sobie zainstaluje, może się zapoznać z Zachodniosłowiańskią Stenografią Maszynową dzięki [**>> TEMU PODRĘCZNIKOWI <<**](https://github.com/Plover-Trillo/WestSlavicStenography/releases) autorstwa Priscilli Trillo. To jest właśnie metoda, którą rozwijamy. Zapraszam do nauki. Pierwsze lekcje już można trenować, bo potrzebują tylko wtyczki (powyżej), a słowników jeszcze nie.
+
+
+
+<!--
+---
 Title: Wstępniak 2021
 Date: 2021-05-15T23:59:00
 Slug: index
@@ -13,6 +43,7 @@ Wiele materiałów znalazłem w językach kompletnie dla mnie obcych, a algorytm
 - w pierwszej kolejności odświeżyć samouczek do SteMi - współczesnego systemu stenografii odręcznej, nakierowanego przede wszystkim na wsparcie podczas notowania wykładów i lekcji, bo to głównie uczniów i studentów najbardziej bolą ręce i to oni właśnie najczęściej myślą z rozpaczą, dlaczegóż to język polski wymaga aż tak wielu liter, żeby zapisać tak krótkie treści.
 - dalej dokończyć pracę nad pierwszym polskim systemem stenografii maszynowej (stenotypia), co może współczesnym użytkownikom klawiatury przyda się bardziej - w oparciu o rozwijające się od 10 lat otwarte oprogramowanie [OpenStenoProject](http://www.openstenoproject.org/). Wiele już zostało zrobione, ale jeszcze więcej przede mną (a może nami?).
 
+-->
 
 
 

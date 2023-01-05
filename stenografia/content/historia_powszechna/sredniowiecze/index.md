@@ -63,7 +63,7 @@ W formie łatwych do zapamiętania poematów-modlitw.
 Podczas rządów Karola Wielkiego oraz jego syna, władcy
 [Cesarstwa Rzymskiego Narodu Niemieckiego](https://pl.wikipedia.org/wiki/Karol_II_99te_Cesarstwo_Rzymskie_Narodu_Niemieckiego) noty tyrońskie zdołały prawie 
 całkiem zaniknąć. Zachowały się nieliczne dokumenty, jak wzmianka 
-z roku 971 o wyborze wójta Abbota Notkera stenografowana przez mnicha Ekkarda
+z roku 971 o wyborze niejakiego [Notkera](https://en.wikipedia.org/wiki/Notker_(abbot_of_Saint_Gall)) na abbota (opata) klasztoru [Santo Gallo](https://en.wikipedia.org/wiki/Abbey_of_Saint_Gall), stenografowana przez mnicha Ekkarda
 di Santo Gallo. 
 W kronice z czasów 
 [Ottona III](https://pl.wikipedia.org/wiki/Otton_III) (983-1002)
@@ -198,7 +198,7 @@ Zainteresowany był kryptografią.
 -->
 
 
-W 1668 roku John Wilkins opracował podobny system, lecz oparty, jak
+W 1668 roku [John Wilkins](https://pl.wikipedia.org/wiki/John_Wilkins) opracował podobny system, lecz oparty, jak
 cyfry cysterskie, o poziomą linię bazową. Do dziś metodę można spotkać w
 eksperymentach artystycznych i ornamentach.
 
@@ -304,10 +304,10 @@ słowa sprzyjały renesansowi i później też rozwojowi stenografii. W XVw.
 mnisi benedyktyni przywrócili światu Notas Tironianas, jak nazwał te
 tajemnicze znaki ich pierwszy badacz, opat Johann Heidelberg zwany
 Tritemio lub
-[Trithemius](http://en.wikipedia.org/wiki/Johannes_Trithemius).
+[Trithemius](https://en.wikipedia.org/wiki/Johannes_Trithemius).
 W następnym wieku badaniami not tyrońskich zajmowało się już wielu
 innych (jak np. 
-[Jan Gruytere](http://www.wordiq.com/definition/Jan_Gruytere)),
+[Jan Gruytere](https://en.wikipedia.org/wiki/Jan_Gruter)),
 ale też wiek XVI to już odrodzenie stenografii.
 
 

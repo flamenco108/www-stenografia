@@ -11,7 +11,9 @@ Author: Krzysztof Smirnow
 Tutaj będę umieszczał słowa i pojęcia, bez których zrozumienie
 poruszanych na stronie zagadnień mogło by się stać trudne.
 
-
+### logografia
+Technika zapisywania bieżącej mowy przez kilku pisarzy pracujących w zespole.
+[Wikipedia tłumaczy to najlepiej](https://pl.wikipedia.org/wiki/Logografia).
 ### stenodaktylografia 
 eksperymentalna dziedzina stenografii i stenotypii. 
 Intencją jej projektantów było ułożenie
@@ -34,12 +36,12 @@ czego najistotniejszą wydaje się stosunek liczby sylab otwartych do
 zamkniętych.
 #### wokalizacja zagłosowa 
 Typowa dla systemów niemieckich wokalizacja
-polegająca na symbolizowaniu głosu na znaku następującym po głosie czyli 
+polegająca na symbolizowaniu głosu na znaku następującym *po* głosie czyli 
 po spółgłosce udźwięcznianej. 
 np. paragraf = p+ar+agr+af.
 #### wokalizacja przedgłosowa 
 Wokalizacja polegająca na symbolizowaniu
-głosu na znaku poprzedzającym głos, czyli udźwięcznienie. Stosowana w
+głosu na znaku *poprzedzającym* głos, czyli udźwięcznienie. Stosowana w
 większości systemów polskich. 
 np. stodoła = sto+do+ła.
 ### stenografia notatkowa 
@@ -55,8 +57,8 @@ wypadków systemy notatkowe powstały jako pierwszy stopień wtajemniczenia
 systemów parlamentarnych. Od swoich szybszych wersji różnią się
 ograniczonym stosowaniem metod, które prowadzą do utrudnionego odczytu i
 indywidualizacji stenogramu. Dopiero w XX wieku zaczęto projektować
-samodzielne systemy notatkowe (np. system Scheithauera, lub system
-Teeline).
+samodzielne systemy notatkowe (np. system [Scheithauera](https://web.archive.org/web/20110428175443/http://www.lot49.de/daten/scheithauer-de.pdf), lub system
+[Teeline](https://pl.wikipedia.org/wiki/Teeline_shorthand)).
 ### stenografia debatowa 
 Zwana też **parlamentarną**. Są to metody
 stenograficzne profesjonalne, zaprojektowane od początku pod kątem
@@ -80,7 +82,10 @@ przetranskrybowany (przepisany na maszynie/w edytorze tekstu)
 natychmiast po zapisaniu.
 ### pismo długie
 tradycyjne pismo we wszystkich jego odmianach
-(drukowanej i pisanej). :**szybkopisanie**: stenografia :**znacznik**:
+(drukowanej i pisanej). 
+### szybkopisanie 
+stenografia 
+### znacznik
 Symbol nadany danemu słowu, związkowi frazeologicznemu lub pojęciu
 wyróżniającemu się zwykle dużą częstością występowania.
 ### frazeogram

@@ -98,7 +98,7 @@ które miało promować oba systemy na równych prawach. Wkrótce jednak, pozbaw
 Twórcy systemów stenograficznych to nie kowboje ani supermeni. Zwykle potrzeba zastosowania stenografii pojawia się w pracy, czyli musi to być praca związana z pisaniem. W tym wypadku warto wspomnieć, że Józef Poliński pracował nad swoim systemem jeszcze jako żołnierz podczas kampanii włoskiej, a zatem można go zaliczyć do *nerdów* XIX wieku, bowiem budował metodę z przyczyn czysto idealistycznych. Pamiętajmy, że wówczas stenografia symbolizowała to, czego dziś alegorią wydaje się być
 Internet: postęp, swobodę myśli, a przede wszystkim możliwość szybkiego ich zapisywania i przetwarzania. Wyobrażano sobie, że już w niedalekiej przyszłości stenografia wyprze stare, łacińskie alfabety.
 
-**[❯ Życiorys Józefa Polińskiego w oddzielnym artykule.](../polinski_zyciorys/)**
+**[❯❯ Życiorys Józefa Polińskiego w oddzielnym artykule.](../polinski_zyciorys/)**
 
 
 
@@ -117,7 +117,7 @@ dużych różnic, aż do śmierci autora-założyciela.
 Jego następcy starali się zachować ducha systemu poprawiając tylko
 znalezione nieścisłości, lub dostosowując go do zmian w języku i
 słownictwie. Niebagatelne znaczenie miał też postęp technik
-obliczeniowych, dzięki którym można było badać częśtość występowania
+obliczeniowych, dzięki którym można było badać częstość występowania
 poszczególnych wyrazów i opracowywać dla nich znaczniki, a w ten sposób
 optymalizować prędkość pisania do wysiłku, jaki trzeba włożyć w
 opanowanie metody.
@@ -130,7 +130,7 @@ ewolucja systemów stenograficznych miała miejsce na całym świecie.
 
 
 
-#### Krótki opis
+#### Krótki opis metody Polińskiego
 
 
 

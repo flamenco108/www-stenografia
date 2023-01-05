@@ -81,7 +81,7 @@ wprowadzając *ścisłą systematyczność etymologiczną, odróżniając z
 matematyczną dokładnością pnie od przedrostków, przyrostków i końcówek*.
 
 <!-- ![Pliki:czajk02.png]({filename}/pliki/HistoriaPolska/PoczXXWieku/czajk02.png) -->
-{{< figure src="" title="" >}}
+{{< figure src="czajk02.png" title="Znaczniki Czajkowskiego" >}}
 <!-- *Kalistenografia Czajkowskiego* -->
 
 Uważał, że choć skracanie wyrazów w zdaniu pozostawić należy samemu
