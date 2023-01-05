@@ -214,9 +214,9 @@ stenografowania urzędowego w Rzymie obowiązywały surowe kary:
 
 *Eum notarium, qui falsum causae breve in consilio imperatoris retulisset, (Severus) incisis digitorum nervis, ita ut nunquam posset scribere, deportavit.*
 
-Temu notariuszowi, co umyślnie wystawił fałszywe świadectwo w zapisie posiedzenia Imperialnej Rady (Sewerowi), uciąć ścięgna nadgarstkowe i wypędzić. 
+Temu notariuszowi, co fałszywie sprawę skrótami przedstawił w Imperialnej Radzie, (Sewer) uciął ścięgna (nerwy?) nadgarstkowe, tak aby już nigdy nie mógł pisać i wypędził. 
 
-*(tłumaczenie moje, proszę poprawić)*
+*(tłumaczenie moje, proszę poprawić, także poniższe)*
 
 -------------------
 
@@ -232,7 +232,7 @@ Epigram CCVIII, tom 14, Notarius:
 *„Currant verba licet, manus est velocior illis,\
 Nondum lingua suum, dextra peregit opus.”*
 
-„Choć słowa pędzą skoro, dłoń jest od nich szybsza;\
+„Choć słowa pędzą, dłoń jest od nich szybsza;\
 Nim język się zatrzymał, prawica zakończyła swoją pracę.”
 
 ----------------------------
@@ -477,11 +477,13 @@ do uświęcenia. Kościół od samego początku uważał zatem, że należy
 dokumentować wszelkie akty męczeństwa. Dzięki wysiłkom chrześcijańskich
 notariuszy, w XVIIw. jezuici mogli rozpocząć pracę nad stworzeniem 
 [Acta Sanctorum](https://pl.wikipedia.org/wiki/Acta_sanctorum).
-Oto przykładowa relacja (na podst. Acta Santorum, Aug., V, 12): 
+Oto przykładowa relacja (na podst. Acta Santorum, Aug., V, 12) mową współczesną: 
 
 Na początku IV w.n.e. pewien młody katechumen, niejaki Genezjusz (dziś św. 
 [Genezjusz z Arles](https://en.wikipedia.org/wiki/Genesius_of_Arles)
-, patron m.in. notariuszy, sekretarzy i sekretarek), zatrudniony na stanowisku notariusza w magistracie miasta Arelate (jak je drzewiej nazywano), wykonywał swoją pracę podczas oficjalnego odczytania dekretu o prześladowaniu chrześcijan. To, co usłyszał, sprawiło, że cisnął na podłogę swój tablet i rysik, po czym oddalił się. Wkrótce został ujęty i stracony zgodnie z aktualną procedurą. W ten sposób przeszedł chrzest we własnej krwi. Kult narodził się niemal natychmiast po jego śmierci. Ołtarz poświęcony św. Genezjuszowi w kościele jego imienia w Arles datuje się na IV w.n.e.
+, patron m.in. notariuszy, sekretarzy i sekretarek), zatrudniony na stanowisku notariusza w magistracie miasta Arelate (jak je drzewiej nazywano), wykonywał swoją pracę podczas oficjalnego odczytania dekretu o prześladowaniu chrześcijan. To, co usłyszał, sprawiło, że cisnął na podłogę swój tablet i rysik, po czym oddalił się. Wkrótce został ujęty i stracony zgodnie z aktualną procedurą. W ten sposób przeszedł chrzest we własnej krwi. 
+
+Kult narodził się niemal natychmiast po jego śmierci. Ołtarz poświęcony św. Genezjuszowi w kościele jego imienia w Arles datuje się na IV w.n.e.
 
 <!-- ![Święty Genezjusz po prawej](https://upload.wikimedia.org/wikipedia/commons/c/c8/-Kathedrale_St.Trophime1078-1152Bunte_Bleiglasfenster_benannt_nach_dem_ersten_Bischof%283.Jh.n.Chr%29vonArles-Innenraum.JPG) -->
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c8/-Kathedrale_St.Trophime1078-1152Bunte_Bleiglasfenster_benannt_nach_dem_ersten_Bischof%283.Jh.n.Chr%29vonArles-Innenraum.JPG" title="Święty Genezjusz po prawej" >}}
@@ -489,7 +491,9 @@ Na początku IV w.n.e. pewien młody katechumen, niejaki Genezjusz (dziś św.
 
 Chrześcijańscy stenografowie ryzykowali więcej od swoich współwyznawców - publikowanie pism oznaczało zdemaskowanie. Tak zginął 
 [święty Kasjan](https://pl.wikipedia.org/wiki/Kasjan_z_Imoli)
-, zakłuty stylusami przez swoich niechrześcijańskich uczniów. Został w ten sposób patronem stenografów.
+, zakłuty stylusami przez swoich niechrześcijańskich uczniów[^3]. Został w ten sposób patronem stenografów.
+
+[^3]: W innej wersji wydarzeń uczniowie zabili go rozdrażnieni nieustanną surowością nauczyciela.
 
 [Św. Hieronim ze Strydonu](https://pl.wikipedia.org/wiki/Hieronim_ze_Strydonu)
 był sekretarzem papieża Damazego I. Przypisuje mu się autorstwo 6000 (słownie: sześciu tysięcy)
@@ -503,7 +507,7 @@ Z usług tachygrafów korzystały synody, począwszy od Soboru Nicejskiego,
 który odbył się w 325 roku w Bitynii (sic!), Sirmium (351r.), Rimini (359r.), Efezie (431r.). Sobór w Akwilei zwołany
 na rok 381 dla pokonania herezji ariańskiej dwóch iliryjskich biskupów,
 [Palladiusza](https://pl.wikipedia.org/wiki/Palladiusz_z_Auxerre) 
-i Sekondiusza, pozostawił szczególnie ciekawe dla historyków dokumenty,
+i Sekundiana, pozostawił szczególnie ciekawe dla historyków dokumenty,
 gdyż notowali tam stenografowie różnych wyznań chrześcijańskich.
 
 Podczas 
@@ -511,16 +515,17 @@ Podczas
 , w 411r.n.e. liczne 
 [kontrowersje i intrygi](https://www.misjonarze.rybnik.pl/index.php?name=News&file=article&sid=307)
 , jakie tam prowadzono, w tym wokół domniemanych (wtedy domniemanych) herezji 
-[Celestiusza](http://pl.wikipedia.org/wiki/Celestiusz) 
+[Celestiusza](https://pl.wikipedia.org/wiki/Celestiusz) 
 i 
-[Pelagiusza](http://pl.wikipedia.org/wiki/Kontrowersja_Pelagia29)
+[Pelagiusza](https://pl.wikipedia.org/wiki/Pelagiusz_(mnich))
 , wywołały potrzebę szczegółowego notowania przebiegu obrad, aby w każdej
 chwili móc przypomnieć, kto jakie i w jakiej sprawie zajmował
 stanowisko. Stąd dziś wiemy tak wiele o tym wydarzeniu. Synod ten
-zwołano także w celu pokonania herezji donatystycznej. W tej sprawie
-wypowiadał się sam święty
-[Augustyn](https://pl.wikipedia.org/wiki/Augustyn_z_Hippony)
-. Tachygrafowie zanotowali jego 60 przemówień. Pracowali w parach i mieli
+zwołano także w celu pokonania herezji 
+[donatystycznej](https://pl.wikipedia.org/wiki/Donatyzm). 
+W tej sprawie wypowiadał się sam święty
+[Augustyn](https://pl.wikipedia.org/wiki/Augustyn_z_Hippony). 
+Tachygrafowie zanotowali jego 60 przemówień. Pracowali w parach i mieli
 obowiązek przedstawić gotowy skrypt w piśmie kursywnym już dnia
 następnego. Ponieważ nie mogli nadążyć, biskupi złożyli propozycję
 przełożenia drugiej sesji obrad aż do powstania gotowych zapisów. W
@@ -530,10 +535,13 @@ zaproponowano odczytywanie zapisów wprost z woskowanych tabliczek, czyli
 tabletów, ale nie zostało to zaakceptowane.
 
 [Papież Gelazjusz](https://pl.wikipedia.org/wiki/Gelazjusz_I)
- (492-496) nakazał, aby każdy kleryk najpierw opanował 
+ (492-496) nakazał, aby każdy kleryk[^4] najpierw opanował 
 sztukę stenografii, zanim zostanie akolitą. W ten sposób przyszykował liczne
 kadry kościelne gotowe służyć świeckiej władzy i na długie wieki
 ugruntował pozycję Kościoła w polityce i administracji.
+
+[^4]: Znawcy języków zapewne zauważyli związek pomiędzy słowem *kleryk* i angielskim *clerc*. Historycznie rzecz biorąc ma to właśnie związek z umiejętnością pisania.
+
 
 Zorganizowane biura stenograficzne obsługiwały też kolejne synody, w
 Seleucji syryjskiej, i Chalcedonie, gdzie w roku 451 zgromadziło się
@@ -563,7 +571,7 @@ w latach 680-681. W dokumentacji
 [IV Soboru Konstantynopolskiego](https://pl.wikipedia.org/wiki/Sob%C3%B3r_konstantynopolita%C5%84ski_IV)
 pod egidą papieża 
 [Adriana II](https://en.wikipedia.org/wiki/Pope_Adrian_II)
-z lat 869-870 znaleziono notatkę - oświadczenie, że ”*wszystko, co tu zostało powiedziane, zostało zapisane przez biegłych tachygrafów dokładnie tak, jak oni to usłyszeli*„.
+z lat 869-870 znaleziono notatkę - oświadczenie, że "*wszystko, co tu zostało powiedziane, zostało zapisane przez biegłych tachygrafów dokładnie tak, jak oni to usłyszeli*".
 
 Od tej pory tego typu oświadczenia zapisane w notach tyrońskich znajduje
 się w dokumentach wszystkich następnych synodów, soborów i konwokacji aż

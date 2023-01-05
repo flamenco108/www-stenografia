@@ -40,11 +40,11 @@ najważniejszym wydarzeniem politycznym były obrady Sejmu. W ten sposób
 narodziła się potrzeba spisywania diariuszy sejmowych. Choć przez długi
 czas nie nadano tym sprawozdaniom charakteru oficjalnego (uczyniono to
 dopiero za rządów Jana Kazimierza), sporządzano je na prywatne
-zamówienie. Piszący, wynajęci skrybowie, lub sami posłowie, posługiwali
+zamówienie. Wynajęci skrybowie posługiwali
 się własnymi metodami, lub, jeśli notowali po łacinie, pozostałościami
 po 
 [średniowiecznej tachygrafii](../../historia_powszechna/sredniowiecze/)
-.
+. Całkiem powszechne było użycie metody [logograficznej](https://pl.wikipedia.org/wiki/Logografia), która przy niezbędnej liczbie dobrze wytrenowanych i zsynchronizowanych szybkopisów nie wymaga stenografii, aby nadążyć za potokiem wymowy.
 
 Polska w XIX wieku, choć podzielona pomiędzy trzy mocarstwa, nie
 odstawała od reszty cywilizowanych krajów. Pierwsza kompletna metoda

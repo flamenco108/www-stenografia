@@ -11,7 +11,7 @@ Author: Krzysztof Smirnow
 
 
 
-# Rewolucja Przemysłowa
+## Rewolucja Przemysłowa
 
 
 
@@ -30,7 +30,7 @@ zmiany w stylu życia praktycznie na całym świecie.
 
 Stenografia nie pozostała z boku tych wydarzeń, lecz na fali
 gospodarczego wzrostu rozwijała się i kwitła znajdując nowe dla siebie
-zastosowania. Powstały setki nowych systemów, , znanych i zapoznanych,
+zastosowania. Powstały setki nowych systemów, znanych i zapoznanych,
 genialnych, wybitnych, świetnych, znakomitych i… takich sobie, a też
 głupich i bezużytecznych. Z braku czasu tymi ostatnimi nie będziemy się
 tutaj zajmować. Od początku XIX wieku stenografia stała się zjawiskiem
@@ -85,19 +85,19 @@ szybkopisania, za prekursora nowoczesnej stenografii uważa się
 [Izaaka Pitmana](http://en.wikipedia.org/wiki/Isaac_Pitman).
 Jednak aby zadość się stało porządkowi chronologicznemu, muszę najpierw
 opowiedzieć o niemieckim wynalazcy, który sięgnął o wiele głębiej i
-stworzył coś bardziej interesującego niż (moim skromnym zdaniem)
+stworzył coś bardziej interesującego (moim skromnym zdaniem) niż
 wszystkie anglosaskie systemy razem wzięte.
 
 
 
-# Franz Xavier Gabelsberger
+## Franz Xavier Gabelsberger
 
 
 
 Oto wyimek z Encyklopedyi Powszechnej (Samuela Orgelbrandta) z roku
 1866:
 
-[Gabelsberger](http://en.wikipedia.org/wiki/Franz_Xaver_Gabelsberger)
+*[Gabelsberger](http://en.wikipedia.org/wiki/Franz_Xaver_Gabelsberger)
 (Franciszek Xawery), założyciel stenografii w Niemczech, i wynalazca
 nowego jej zastosowania. Urodził się roku 1789 w Mniehowie, był synem
 nadwornego bawarskiego fabrykanta instrumentów dętych, pobierał nauki w
@@ -136,7 +136,7 @@ drugie wyd., 1850); Neue Vervoltkommung (Muenchen, 1848; drugie wyd.,
 1849, tknięty apopleksyją na ulicy. Uczniowie utworzyli na jego cześć
 stowarzyszenie: Gabelsberger stenographischer Verein, które z
 pozostałych po nim papierów wydało główne jego dzieło: Lehrgebaeude der
-Stenographie (Muenchen, 1850).
+Stenographie (Muenchen, 1850).*
 
 <!-- ![Przykład systemu Gabelsbergera](http://upload.wikimedia.org/wikipedia/commons/3/38/Gabelsberger_shorthand_sample_1834_-_Von_dem_Zwecke.png) -->
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/3/38/Gabelsberger_shorthand_sample_1834_-_Von_dem_Zwecke.png" title="Przykład pisma gabesbergerowskiego „Von dem Zwecke Jesu und seiner Jünger” Hermann Samuela Reimarusa" >}}
@@ -178,7 +178,7 @@ znaki, a bogaty w reguły i oboczności, czy odwrotnie.
 
 
 
-# Izaak Pitman
+## Izaak Pitman
 
 
 
@@ -225,7 +225,7 @@ popularyzację.
 
 
 
-## Poczta i kontrkultura 
+### Poczta i kontrkultura 
 
 
 
@@ -268,7 +268,7 @@ jego studentów, by przetłumaczył treść pism z biurka - Izaak Pitman był ta
 <!-- *Izaak Pitman w „kwiecie wieku”) -->
 
 
-## Pitmania
+### Pitmania
 
 
 Przyjaciele po piórze z
@@ -302,7 +302,7 @@ Izaak Pitman otrzymał szlachectwo od królowej Wiktorii za wkład w rozwój
 stenografii. Trzy lata później zmarł w Somerset. 
 
 
-## Kreski i diakrytyki
+### Kreski i diakrytyki
 
 
 Jako purytański perfekcjonista Pitman stale poprawiał i
@@ -363,7 +363,7 @@ Porównaj wynik pracy komputera z pismem zawodowej stenografki (obrazek parę ak
 
 
 
-# John Robert Gregg
+## John Robert Gregg
 
 
 John Robert Gregg urodził się 17 czerwca
@@ -406,7 +406,7 @@ w wykładach i debatach uniwersyteckich jako wolny słuchacz. Notatki
 oczywiście stenografował. W wieku 18 lat wygrał zawody stenograficzne.
 
 
-## Własny system
+### Własny system
 
 
 Mimo że wkrótce stenografia stała się domeną
@@ -478,7 +478,7 @@ pomocy dydaktycznych system stenograficzny.
 
 Po I Wojnie Światowej John
 Robert Gregg wraz z żoną podróżował po Europie, odcinając kupony od
-swojego gospodarczego sukcesu i przy okazji aktywnie propagując swój
+gospodarskiego sukcesu i przy okazji aktywnie propagując swój
 system. Choć nie zdołał pokonać Pitmana w Wielkiej Brytanii, zdobył
 sporą popularność w kręgu języków romańskich. W niektórych krajach
 Ameryki Łacińskiej urodziny Johna Roberta Gregga zaznaczone są w
@@ -486,7 +486,7 @@ kalendarzach jako święto. Do samej śmierci John Robert Gregg aktywnie
 propagował swój system i wspierał jego przekłady na inne języki, w tym
 na niemiecki i **polski**. 
 
-## Łagodne łuki i zgrabne pętelki
+### Łagodne łuki i zgrabne pętelki
 
 Stenografia Gregga, choć w podstawie geometryczna, zaprojektowana
 została przez autora tak, żeby odpowiadać ruchom piszącej ręki. Stąd
@@ -524,7 +524,7 @@ potrafiących stenografować.
 {{< figure src="everyone_cries_at_weddings-clausthal.png" title="Everyone cries at weddings" >}}
 
 
-## Wątek polski
+### Wątek polski
 
 W roku 1926 wydawnictwo Gregg Publishing wydało
 książeczkę *John Robert Gregg: Stenografja polska. Ze systemu amerykańskiego przełożył i do języka polskiego przystosował Józef Widzowski. (Klucz do stenogramów w podręczniku stenografji Polskiej)*.
@@ -577,7 +577,7 @@ wersji polskiej nie przekreślają sensowności przekładów systemów na inne
 języki. Najpopularniejsze polskie systemy są tłumaczeniami (raczej powinno się powiedzieć: transpozycjami) z niemieckich
 i rosyjskich. 
 
-## Gregg to Windows, Pitman to Linux
+### Gregg to Windows, Pitman to Linux
 
 Pod tym
 kontrowersyjnym tytułem pragnę zwrócić uwagę czytelników na to, że

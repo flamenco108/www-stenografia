@@ -44,12 +44,12 @@ Zanik znajomości tachygrafii w średniowieczu i próby przedstawienia nowych sy
 - [Tachygrafia średniowieczna](sredniowiecze), kiedy dokonania rzymskie odchodzą w zapomnienie, albo zostają ograniczone do swoich najprostszych rozwiązań.
 
 # Czasy nowe od roku 1602 do dziś 
-Od wystąpienia Johna Willisa autora metody stenograficznej - rozwój wielu systemów stenograficznych powstałych na podłożu geometrycznym i graficznym. Dla uwypuklenia historii stenografii polskiej należy ostatni okres podzielić na dwa podokresy:
+Od wystąpienia [Johna Willisa](https://en.wikipedia.org/wiki/John_Willis_(inventor)) autora metody stenograficznej - rozwój wielu systemów stenograficznych powstałych na podłożu geometrycznym i graficznym. Dla uwypuklenia [historii stenografii polskiej](../historia_polska/) należy ostatni okres podzielić na dwa podokresy:
 
-- Czas propagacji nowej stenografii, od roku 1602 do 1834 - stenografia rozwijała się prawie wyłącznie w krajach anglojęzycznych, w drugiej połowie tego okresu zaczęła się na serio przenosić na grunt innych mocarstw europejskich: Francji i Niemiec. Opisują to rozdziały:
+- **Czas propagacji nowej stenografii**, od roku 1602 do 1834 - stenografia rozwijała się prawie wyłącznie w krajach anglojęzycznych, w drugiej połowie tego okresu zaczęła się na serio przenosić na grunt innych mocarstw europejskich: Francji i Niemiec. Opisują to rozdziały:
   - [Okres renesansu](renesans/)
   - [Okres Oświecenia](oswiecenie/)
-- Czas eksplozji i uwiądu stenografii, od roku 1834 do dziś - w roku 1834 Franciszek Gabelsberger opublikował swój przełomowy system, pierwszy wynalazek nie nawiązujący w żaden sposób do wcześniejszych osiągnięć angielskich. Ten okres został opisany w rozdziale:
+- **Czas rozkwitu i uwiądu stenografii**, od roku 1834 do dziś - w roku 1834 [Franciszek Gabelsberger](https://pl.wikipedia.org/wiki/Franz_Xaver_Gabelsberger) opublikował swój przełomowy system, pierwszy wynalazek nie nawiązujący w żaden sposób do wcześniejszych osiągnięć angielskich. Ten okres został opisany w rozdziale:
   - [Rewolucje stenograficzne](rewolucje/)
   
 **[W tym też mniej więcej czasie zaczęły powstawać pierwsze polskie systemy stenograficzne](../historia_polska/)**, których historię ciągniemy aż do samej współczesności.

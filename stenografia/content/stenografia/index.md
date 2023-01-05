@@ -55,9 +55,8 @@ ważne oddaje posługi. (…) – [❯❯ czytaj dalej](../roznosci/orgelbrandt/
 
 [Poeta ujął to o wiele krócej, a przecież nie mniej celnie](http://pl.wikisource.org/wiki/Zwolon)
 
-*… Sztuka stenografii\
-
-Czasowi kradnie myśli upuszczanych złoto.*
+*… Sztuka stenografii*\
+*Czasowi kradnie myśli upuszczanych złoto.*
 
 (Cyprian Kamil Norwid) 
 
@@ -164,7 +163,7 @@ możliwie jak najbardziej konkretny. Zatem, przyjmując odważne założenie,
 że pismo odręczne, a zatem i stenografia, jeszcze się nam w przyszłości
 przydadzą, stwórzmy system, który będzie odpowiadał nowoczesnym czasom
 we wszystkich możliwych aspektach. Więcej na ten temat 
-[przeczytaj tutaj](../npss/Npss.Npss.html).
+**[przeczytaj tutaj](../blog/2013-02-28_kurs-stemi-lekcja-01/) ⟵ pierwsza lekcja systemu SteMi**.
 
 ## Ocalić od zapomnienia
 
@@ -178,7 +177,7 @@ jego braki, tak jak pismo długie uzupełniało jej braki. Życie wciąż się
 zmienia, a pismo pozostaje. Zmieniają się tylko narzędzia piśmiennicze.
 Dlaczego miałoby być inaczej ze stenografią?
 
-![Obrazek Grandjean](http://www.typewriter.be/images/grandjean-01.jpg)
+![Maszyna do stenotypii Grandjean](http://www.typewriter.be/images/grandjean-01.jpg)
 
 Wielu dziś nie ma
 nawet świadomości, że taka sztuka istnieje. Została wyparta z zastosowań
@@ -192,7 +191,7 @@ za cenne umiejętności? Czy może lepiej wymościły sobie gniazdko w
 ludzkiej świadomości? Czy stenografia nie zasługuje też na swój,
 maleńki, kącik?
 
-![Obrazek steno](http://www.communelangue.com/wp-content/uploads/2008/08/steno.jpg)
+
 
 W
 naturze nic nie ginie, zmienia tylko formę lub przeznaczenie. Kto wie,

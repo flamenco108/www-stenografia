@@ -16,4 +16,4 @@ W dziale tym opublikowane są artykuły, które nie mieszczą się bezpośrednio
 * [❯ Historia Fiodora Dostojewskiego i Anny Snitkiny](dostojewski_snitkina/)
 * [❯ Sławni stenografowie](stenografowie/)
 * [❯ Opis hasła „stenografia” w Encyklopedyi Powszechnej Samuela Orgelbrandta z 1869 roku](orgelbrandt)
-* [Czytanka Stenografii Polskiej i Ruskiej Szkoły Lubina Olewińskiego](https://jbc.bj.uj.edu.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=GroupTitle:%22Czytanka+Stenografii+Polski%C3%A9j+i+Ruski%C3%A9j+Szko%C5%82y+Lubina+Olewi%C5%84skiego+%5C(1864%5C-1866%5C)%22)
+* [❯ Czytanka Stenografii Polskiej i Ruskiej Szkoły Lubina Olewińskiego](https://jbc.bj.uj.edu.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=GroupTitle:%22Czytanka+Stenografii+Polski%C3%A9j+i+Ruski%C3%A9j+Szko%C5%82y+Lubina+Olewi%C5%84skiego+%5C(1864%5C-1866%5C)%22)
