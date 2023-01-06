@@ -1,9 +1,8 @@
 ---
 Title: Przemyślenia noworoczne na rok 2023
-Date: 2023-01-06T23:59:59
+Date: 2023-01-05T23:59:59
 Author: Krzysztof Stenografow
 kategorie: ["stemi", "stenotypia", "dumania"]
-draft: true
 ---
 
 
