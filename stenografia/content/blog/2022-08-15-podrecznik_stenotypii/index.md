@@ -40,6 +40,8 @@ Całość napisana jest w międzynarodowym lengłydżu, czyli po angielsku. Có�
 
 Cały materiał pogrupowany został w lekcje. Autorka ma wieloletnie doświadczenie jako nauczycielka stenotypii, więc jestem przekonany, że wie, co robi. Priscilla zapewnia, że kto przejdzie uczciwie i pilnie przez wszystkie po kolei, stanie się stenotypistą-amatorem zdolnym wpisywać tekst z niewiarygodną dla innych prędkością - i robić to długo bez przerwy. Kwestia wytrwałości i ćwiczeń.
 
+Nieskromnie pochwalę się, że obrazek klawiatury, na którym w podręczniku umieszczone są strzałeczki, pochodzi z mojego komputera, na którym pilnie przetworzyłem materiał źródłowy opublikowany w tym celu w zasobach systemu Plover. Cieszę się, że do czegoś do się przydało.
+
 
 ### Nowość w obszarze stenografii SteMi
 
