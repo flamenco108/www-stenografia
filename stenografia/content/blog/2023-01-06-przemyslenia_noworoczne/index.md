@@ -84,7 +84,7 @@ Poza tym mam zamiar uczynić noworoczne postanowienie:
 
 {{< figure src="postanowienie.jpg" >}}
 
-Kiedy będę miał zamiar pisać coś o stenografii, będę piesał stenograficznie.
+Kiedy będę miał zamiar pisać coś o stenografii, będę pisał stenograficznie.
 
 Jeżeli będę pisał o stenotypii - wtedy nie będę musiał tego robić.
 
