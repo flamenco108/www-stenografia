@@ -68,16 +68,29 @@ Mianowicie inspirowałem się też [*JSSP Łazarskich*](https://pl.wikipedia.org
 
 Jeżeli stenograf w metodzie SteMi bardzo chce pisać zgodnie z linią pisma, może (bo czemu nie?) w razie potrzeby ciąć wyrazy na części i wracać ręką do linii bazowej. Np. ry-cy-ny. Każdą sylabę zaczynać na linii bazowej, znaki ścisnąć blisko siebie - i będzie równo. 
 
-[[obrazek]]
+{{< figure src="rycyny.jpg" title="rycyny, ry-cy-ny, ryc-ny" >}}
 
-Co prawda ręka musi wykonać dodatkowy ruch powrotny, ale co zrobić? Można by opracować jakieś symbole dla *yby, ycy, ydy, yły, ymy, yny, yry, ysy, ywy, yzy, yży* (chyba wszystkie tego typu uciekające w górę), ale jeszcze są złożenia uciekające w dół. Tutaj niektóre udało mi się rozpracować, konkretnie grupy spółgłoskowe typu *psk, tk, kt, mk, nk...* Ale wszystkiego nie da się przewidzieć.
+Co prawda ręka musi wykonać dodatkowy ruch powrotny, ale co zrobić? Można by opracować jakieś symbole dla *yby, ycy, ydy, yły, ymy, yny, yry, ysy, ywy, yzy, yży* (chyba wszystkie tego typu uciekające w górę), ale jeszcze są złożenia uciekające w dół. Tutaj niektóre udało mi się rozpracować, konkretnie grupy spółgłoskowe typu *psk, tk, kt, mk, nk...* Ale wszystkiego nie da się przewidzieć.
 
-Można napisać "skok" w taki sposób, że będzie uciekać w dół, a można tak, że będzie się trzymać linii pisma
-
-[[obrazek]]
+{{< figure src="piechota.jpg" title="piechota, pie-chota, pie-cho-ta" >}}
 
 
+Można napisać "skok" w taki sposób, że będzie uciekać w dół, a można tak, że będzie się trzymać linii pisma. W wypadku, gdy ktoś (jak np. ja) ma problem z ładnym pisaniem znaków i często wychodzą mu niedokładne różnice w długości kreski (przez co mylą się literki), można przy pomocy położenia następnej litery dostarczać dodatkową informację o literze poprzedniej.
 
+{{< figure src="skok.jpg" title="skok, skok, skok, wyskok, naskok" >}}
+
+
+Poza tym mam zamiar uczynić noworoczne postanowienie:
+
+{{< figure src="postanowienie.jpg" >}}
+
+Kiedy będę miał zamiar pisać coś o stenografii, będę piesał stenograficznie.
+
+Jeżeli będę pisał o stenotypii - wtedy nie będę musiał tego robić.
+
+Mam nadzieję, że się uda.
+
+Zatem jeszcze raz chcę życzyć Wam Szczęśliwego Nowego Roku!
 
 
 
