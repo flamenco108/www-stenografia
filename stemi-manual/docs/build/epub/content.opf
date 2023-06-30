@@ -12,8 +12,8 @@
     <dc:publisher>Krzysztof Stenografow Smirnow</dc:publisher>
     <dc:rights>2023, Krzysztof Stenografow Smirnow</dc:rights>
     <dc:identifier id="unknown">unknown</dc:identifier>
-    <dc:date>2023-06-27T12:42:35Z</dc:date>
-    <meta property="dcterms:modified">2023-06-27T12:42:35Z</meta>
+    <dc:date>2023-06-29T15:54:28Z</dc:date>
+    <meta property="dcterms:modified">2023-06-29T15:54:28Z</meta>
     <meta property="ibooks:version"></meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
@@ -22,18 +22,31 @@
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-    <item id="epub-0" href="genindex.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-1" href="index.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-2" href="_static/basic.css" media-type="text/css" />
-    <item id="epub-3" href="_static/epub.css" media-type="text/css" />
-    <item id="epub-4" href="_static/file.png" media-type="image/png" />
-    <item id="epub-5" href="_static/minus.png" media-type="image/png" />
-    <item id="epub-6" href="_static/plus.png" media-type="image/png" />
-    <item id="epub-7" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-0" href="01.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="genindex.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="02/02.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="_images/bedzie.jpg" media-type="image/jpeg" />
+    <item id="epub-5" href="_images/hha.jpg" media-type="image/jpeg" />
+    <item id="epub-6" href="_images/jezeli.jpg" media-type="image/jpeg" />
+    <item id="epub-7" href="_images/kiedy.jpg" media-type="image/jpeg" />
+    <item id="epub-8" href="_images/nie.jpg" media-type="image/jpeg" />
+    <item id="epub-9" href="_images/raz.jpg" media-type="image/jpeg" />
+    <item id="epub-10" href="_images/wtedy.jpg" media-type="image/jpeg" />
+    <item id="epub-11" href="_images/wtedy.png" media-type="image/png" />
+    <item id="epub-12" href="_images/wtedy1.jpg" media-type="image/jpeg" />
+    <item id="epub-13" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-14" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-15" href="_static/file.png" media-type="image/png" />
+    <item id="epub-16" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-17" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-18" href="_static/pygments.css" media-type="text/css" />
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
-    <itemref idref="epub-1" />
+    <itemref idref="epub-2" />
     <itemref idref="epub-0" />
+    <itemref idref="epub-3" />
+    <itemref idref="epub-1" />
   </spine>
   <guide>
     <reference type="toc" title="Table of Contents" href="index.xhtml" />

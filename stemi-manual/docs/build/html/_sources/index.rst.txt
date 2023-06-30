@@ -12,7 +12,8 @@ Podręcznik SteMi
    :caption: Contents:
 
 
-01.md
+   01.md
+   02/02.md
 
 
 .. Indices and tables
