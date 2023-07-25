@@ -1,10 +1,6 @@
 # Durga
 
-:::{#mypara .bg-warning}
-Here is a paragraph with attributes.
 
-{ref}`A reference to my paragraph <mypara>`
-:::
 
 :::{admonition} Uwaga!!!
 :class: tip
@@ -12,9 +8,9 @@ Here is a paragraph with attributes.
 Here's my admonition content.{sup}`1`
 :::
 
-![wtedy jpg](../dic/wtedy.jpg)
+![wtedy jpg](../img/dic/wtedy.jpg)
 
-![wtedy png](../dic/wtedy.png)
+![wtedy png](../img/dic/wtedy.png)
 
 
 Miód był ![kiedy](kiedy.jpg){.bg-warning w=50px} wykorzystywany w celach kulinarnych co najmniej od mezolitu. 
