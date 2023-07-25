@@ -1,10 +1,6 @@
 # Cość
 
-:::{#mypara .bg-warning}
-Here is a paragraph with attributes.
 
-{ref}`A reference to my paragraph <mypara>`
-:::
 
 ### My nifty title
 
@@ -16,9 +12,9 @@ Some **text**! I ~~skreślone~~
 Here's my admonition content.{sup}`1`
 :::
 
-![wtedy jpg](dic/wtedy.jpg)
+![wtedy jpg](img/dic/wtedy.jpg)
 
-![wtedy png](dic/wtedy.png)
+![wtedy png](img/dic/wtedy.png)
 
 
 :::{tip}

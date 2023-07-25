@@ -1,16 +1,71 @@
-# Durga
+# Rozdział
 
 
+
+
+```{table} Tabelka
+:width: 50px
+:alt: Przykładowa tabelka
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive. | $1600 |
+| col 2 is |    centered You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.   |   $12 |
+| col 3 is | right-alignedYou can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive. |    $1 |
+```
+
+## Podrozdział
+
+```{figure} jezeli.jpg
+:width: 50px
+:alt: Jeżeli
+
+
+jeżeli
+```
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+
+### Podpodrozdział
+
+Jakiś **text**! I ~~skreślone~~
 
 :::{admonition} Uwaga!!!
 :class: tip
 
-Here's my admonition content.{sup}`1`
+To jest adminition.{sup}`1`
 :::
 
-![wtedy jpg](../dic/wtedy.jpg)
+![wtedy png](wtedy.png)
 
-![wtedy png](../dic/wtedy.png)
+
+:::{tip}
+To jest wskazówka
+:::
+
+Pisanie *pisanie* **pisanie**
+
+# Durga
+
+
+
+:::{admonition} Wstawka niezdefiniowana
+:class: tip
+
+Treść własnej wstawki (niezdefiniowanej).{sup}`1`
+:::
+
+![wtedy jpg](../img/dic/wtedy.jpg)
+
+![wtedy png](../img/dic/wtedy.png)
 
 
 Miód był ![kiedy](kiedy.jpg){.bg-warning w=50px} wykorzystywany w celach kulinarnych co najmniej od mezolitu. 
@@ -60,28 +115,23 @@ Nieprzespiecznie
 ![wtedy](wtedy.jpg)
 
 
-```{figure} jezeli.jpg
-:width: 50px
-:alt: Jeżeli
 
 
-jeżeli
-```
-
-### Trzeci poziom
+## Durga podrozdział
 
 :::{error}
 Błąd
 :::
 
-#### Czwarty poziom
+### Durga podpodrozdział
 
 :::{important}
 Importante
+![hha](hha.jpg){.bg-warning w=100px align=right}
 :::
 
 
-![hha](hha.jpg){.bg-warning w=100px align=right}
+
 
 
 :::{note}
@@ -95,6 +145,8 @@ Patrz też seealso
 :::{warning}
 Warning
 :::
+
+#### Durga podpodpodrozdział
 
 ![hha](hha.jpg)
 
