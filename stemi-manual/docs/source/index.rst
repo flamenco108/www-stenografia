@@ -9,19 +9,21 @@ Podręcznik SteMi
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: Spis treści:
 
-
-01.md
+   00wstep.md
+   alfabet-stemi.md
+..   zrzut/index.md
+   
 
 
 .. Indices and tables
-Indeksy i tabele
-----------------
+.. Indeksy i tabele
+.. ----------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
 Odsyłacze robocze
 -----------------
