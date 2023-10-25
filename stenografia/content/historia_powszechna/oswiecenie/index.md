@@ -83,8 +83,21 @@ dążenie do możliwie największej prostoty, szybkości uczenia się,
 
 {{< figure src="dickens_shorthand.jpg" title="Stenogram ręką Dickensa pisany" >}}
 
-Na koniec ciekawostka: czyżby firma kryjąca się pod adresem
-<https://www.gurneysreporting.co.uk/> była spadkobiercą tegoż Gurney'a?
+Na koniec ciekawostka: 
+
+> czyżby firma kryjąca się pod adresem
+> <https://www.gurneysreporting.co.uk/> była spadkobiercą tegoż Gurney'a?
+
+----------------------------
+
+Poprawka 2023-10-25:* Firma *Gurney's Reporting* w roku 2017 została 
+(wraz z *Margaret Wort & Co*) przejęta przez [kompanię *Auscript Australisia*](https://web.archive.org/web/20220109172254/https://uk.escribers.net/), 
+dzięki czemu powstała nowa firma o nazwie *Auscript Ltd*. W roku 2020 została ona
+[przejęta przez *eScribers Group*](https://uk.escribers.net/#about). Oceniam, że wydarzyło się to
+w wyniku zamierania rynku na usługi stenograficzne - doszło do konsolidacji.
+
+----------------------------
+
 Otóż tak! System Gurney'a jest wciąż w użyciu, o czym świadczą
 przechwałki na ich stronie: metodą tą stenografowano proces Królowej
 Karoliny w roku 1820, przesłuchania w sprawie katastrofy Titanica w roku

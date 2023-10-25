@@ -12,7 +12,7 @@ strony niemieckie. Ale ile można siedzieć na stronach angielskich? Po
 kilku miesiącach odważyłem się i znalazłem:
 
 
-![](wurzelschr8-kunovski.gif)
+![wurzelschrift](wurzelschr8-kunovski.gif)
 
 
 Prezentowany tutaj system to Wurzelschrift, abecadło nauczane
@@ -25,11 +25,11 @@ czytanie.
 Oto przykładowe obrazki wprost ze strony
 [Amtmann-Kreyenfeld-Schule](https://www.kreyenfeldschule.de/)[^1]:
 
-[^1]: Skąd oczywiście zniknęły w potoku dziejów. Udało się je odzyskać dzięki https://web.archive.org
+[^1]: Skąd oczywiście zniknęły w potoku dziejów. Udało się je odzyskać dzięki [https://web.archive.org](https://web.archive.org/web/20230000000000*/https://www.kreyenfeldschule.de/)
 
-![](normalschrift.gif)
+![normalschrift](normalschrift.gif)
 
-![](wurzelschrift.gif)
+![wurzelschrift](wurzelschrift.gif)
 
 Ostatni niemiecki półkursywny system stenograficzny. Może ktoś spróbuje
 dostosować go do języka polskiego?
