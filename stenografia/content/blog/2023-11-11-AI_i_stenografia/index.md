@@ -34,7 +34,7 @@ zajmie się odczytaniem tych naszych wypocin.
 
 W ten sposób połączyłem wpis traktujący o stenografii i najbardziej
 
-popularny teman w internetach.
+popularny temat w internetach.
 
 A przecież już dawno nie pisałem.
 
