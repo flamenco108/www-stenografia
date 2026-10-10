@@ -11,7 +11,7 @@ Przez ostatnie miesiące nie zajmowałem się zbyt usilnie sprawami czy to steno
 
 Moją krytykę tej propozycji opublikuję gdzieś w dalszych wpisach blogowych, po szczegółowej analizie, która zajmie mi sporo czasu, gdyż, jak Janusz niżej pisze, priorytetowo energię czasu wolnego od innych spraw poświęcam teraz stenotypii. Po dokonaniu krytyki zamierzam całość dokumentu systemowego **SteMi_J** opublikować też w odpowiednim dziale tej strony, aby nie było potrzeby szukania go po blogowych wpisach (choć wyszukiwarka działa bardzo dobrze).
 
-Gdyby ktoś był zainteresowany nauką *SteMi_J*, myślę, że sensownie będzie przejrzeć dostępne [**tutaj** lekcje bazowego systemu SteMi]({{< relref "../2013-02-28_kurs-stemi-lekcja-01/" >}}), a w trakcie ćwiczeń dopasowanie różnic ze *SteMi_J*.
+Gdyby ktoś był zainteresowany nauką *SteMi_J*, myślę, że sensownie będzie przejrzeć dostępne [**tutaj** lekcje bazowego systemu SteMi]({{< relref "./2013-02-28_kurs-stemi-lekcja-01/" >}}), a w trakcie ćwiczeń dopasowanie różnic ze *SteMi_J*.
 
 Poniżej zatem cytuję opis systemu, który przesłał mi jego autor, *Janusz Skolimowski*, a następnie linkuję pozostałe materiały - co razem składa się na kompletny tzw. dokument systemowy, czyli wyczerpujące opisanie tego systemu.
 

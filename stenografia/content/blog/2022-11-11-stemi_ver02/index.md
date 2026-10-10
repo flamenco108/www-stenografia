@@ -60,7 +60,7 @@ Przystąpiłem do pracy nad przetłumaczeniem podręcznika na język polski (jak
 
 Natomiast moje postępy w nauce stenotypii zamierzam od czasu do czasu publikować w formie filmików, takich jak ten poniżej:
 
-{{< yt G6oX7uU5tDU >}}
+{{< youtube G6oX7uU5tDU >}}
 
 Zatem jak widzicie, dzieje się sporo nowych rzeczy i dużo nowego jest do nauczenia się!
 

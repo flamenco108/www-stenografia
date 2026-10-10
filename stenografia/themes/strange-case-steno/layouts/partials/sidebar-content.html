@@ -11,6 +11,8 @@
 		</div>
 		{{ end }}
 
+<
+
 <!-- menu "icons" (menu.icons in config.toml) -->
 		<ul class="sidebar-menus sidebar-icons">
                   {{ range .Site.Menus.icons }}
@@ -32,6 +34,7 @@
 					    <li>&#187; <a href="{{.Permalink}}">{{ .Title }}</a></li>
                     {{ end }}
                   </ul>
+
                 </div>
 
 		{{ if .Site.Params.contact_email }}
@@ -47,10 +50,16 @@
 		-->
 */}}
 		
+
+<p class="sidebar-menus copyright"><img src="{{ .Site.BaseURL }}/images/IAmNotARobot_01.png" alt="Ten serwis www nie został zrobiony przez AI"/>&nbsp;SI tego nie napisała!</p>
+
 		<p class="copyright">{{ with .Site.Params.copyright }}{{ . }}{{ else }}&copy; {{ now.Format "2006" }}
 		<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stenografia.pl</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://stenografia.pl" property="cc:attributionName" rel="cc:attributionURL">Krzysztof Smirnow</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><!-- <img alt="Licencja Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /> --><img alt="Licencja Creative Commons" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png" /> International</a>. {{end}}</p>
 		
 		
+
+
+
 		
 		<p class="attr">Powered by <a href="http://gohugo.io">Hugo</a> &amp; <a href="https://github.com/ExchangeRate-API/strange-case">Strange Case</a> (inspired by <a href="https://github.com/poole/hyde">Hyde</a> and <a href="https://www.glyphicons.com/">Glyphicons</a>).</p>
 		

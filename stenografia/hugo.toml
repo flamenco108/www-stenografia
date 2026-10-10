@@ -1,0 +1,144 @@
+baseURL = "https://www.stenografia.pl/"
+title = "Stenografia"
+languageCode = "pl-pl"
+defaultContentLanguage = "pl"
+
+# Ustawienie paginacji w nowym formacie
+[pagination]
+  pagerSize = 15
+
+# Nowoczesny import motywów przez moduły
+
+[module]
+  replacements = [
+    "strange-case-steno -> strange-case-steno"
+  ]
+
+  [[module.imports]]
+    path = "strange-case-steno"
+
+
+#[module]
+#  replacements = [
+#    "strange-case-steno -> strange-case-steno",
+#    "hugo-video -> hugo-video"
+#  ]
+#
+#  [[module.imports]]
+#    path = "strange-case-steno"
+#  [[module.imports]]
+#    path = "hugo-video"
+
+  # Przekierowanie nazwy modułów na lokalne ścieżki w katalogu themes
+#  [[module.replacements]]
+#    from = "strange-case-steno"
+#    to = "themes/strange-case-steno"
+#  [[module.replacements]]
+#    from = "hugo-video"
+#    to = "themes/hugo-video"
+
+# Włączenie renderowania HTML zawartego w plikach Markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[Author]
+    name = "Krzysztof Stenografow"
+    bio = "Krzysztof Stenografow - ktoś i nikt zupełnie."
+
+[Params]
+    subtitle = "Nondum lingua suum, dextra peregit opus"
+    description = "Nondum lingua suum, dextra peregit opus"
+    sidebarFreeText = "Druga odsłona stenografii"
+    blogMirror = "https://tachygrafia.blogspot.com/"
+    colorScheme = "scheme-steno"
+    DateFormat = "2006-01-02"
+
+[Params.widgets]
+    search = true
+    recent_articles = true
+    categories = true
+    tags = true
+
+[taxonomies]
+  category = "kategorie"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+  [[menu.main]]
+    name = "Strona główna"
+    weight = -350
+    post = "<span class='material-icons'>face</span>"
+    url = "/"
+
+  [[menu.main]]
+    name = "Wyszukiwarka"
+    weight = -330
+    post = "<span class='material-icons'>search</span>"
+    url = "/search/"
+
+  [[menu.main]]
+    name = "Blog stenograficzny"
+    post = "<span class='material-icons'>create</span>"
+    identifier = "blog"
+    url = "/blog/"
+    weight = -250
+
+  [[menu.main]]
+    name = "O stenografii"
+    post = "<span class='material-icons'>drive_file_rename_outline</span>"
+    identifier = "stenografia"
+    url = "/stenografia/"
+    weight = -240
+
+  [[menu.main]]
+    name = "Stenografowie"
+    post = "<span class='material-icons'>person</span>"
+    identifier = "stenografowie"
+    url = "/stenografowie/"
+    weight = -230
+
+  [[menu.main]]
+    name = "Historia Powszechna"
+    post = "<span class='material-icons'>language</span>"
+    identifier = "historia_powszechna"
+    url = "/historia_powszechna/"
+    weight = -190
+
+  [[menu.main]]
+    name = "Historia Polska"
+    post = "<span class='material-icons'>home</span>"
+    identifier = "historia-polska"
+    url = "/historia_polska/"
+    weight = -180
+
+  [[menu.main]]
+    name = "Różności"
+    post = "<span class='material-icons'>lightbulb</span>"
+    identifier = "roznosci"
+    url = "/roznosci/"
+    weight = -170
+
+  [[menu.main]]
+    name = "Repozytorium"
+    post = "<span class='material-icons'>book</span>"
+    identifier = "repo"
+    url = "/repo/"
+    weight = -160
+
+  [[menu.main]]
+    name = "Mirror bloga na blogger.com"
+    post = "<span class='material-icons'>file_copy</span>"
+    identifier = "mirror"
+    url = "https://tachygrafia.blogspot.com/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Kontakt"
+    post = "<span class='material-icons'>call</span>"
+    identifier = "kontakt"
+    url = "/kontakt/"
+    weight = -100

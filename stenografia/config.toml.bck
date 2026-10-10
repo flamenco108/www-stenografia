@@ -1,8 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "pl-pl"
-title = "Steno2"
-theme = "ananke" 
-relativeurls = true
-
-[outputs]
-home = [ "HTML", "RSS", "JSON"]

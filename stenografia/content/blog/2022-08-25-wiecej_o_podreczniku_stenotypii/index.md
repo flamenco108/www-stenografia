@@ -62,7 +62,7 @@ Oczywiście, w oczekiwaniu na poniższe można już zacząć ćwiczenia. Na pocz
 
 ##### NKRO
 
-Nie koniecznie najtańszym, ale z pewnością najłatwiejszym rozwiązaniem jest [wspomniany przeze mnie już wcześniej]( {{< ref "../2021-11-10_postepy_stenotypii/" >}}) zakup np. na Aliexpress najtańszej klawiatury typu NKRO (n-key rollover czyli pozwalającej na wciśnięcie w miarę dowolnej liczby klawiszy równocześnie) ➠ [NA PRZYKŁAD TAKIEJ](https://www.aliexpress.com/item/1005003262935062.html) (link aktywny w dniu publikacji). Tu przypomnę, że warto taki produkt [przetestować na odpowiedniej stronie](http://gadzikowski.com/nkeyrollover.html), czy rzeczywiście spełnia wymogi. Po pozytywnym wyniku testu należy pobrać z sieci pliki do [Stenotoppers](https://cemrajc.github.io/stenotoppers/) i zamówić ich [wydruk 3d](https://protoplastic.pl/). Następnie podmienić nakładki klawiszy na te wydrukowane - i mamy pierwszą wersję klawiatury.
+Nie koniecznie najtańszym, ale z pewnością najłatwiejszym rozwiązaniem jest [wspomniany przeze mnie już wcześniej]( {{< ref "./2021-11-10_postepy_stenotypii/" >}}) zakup np. na Aliexpress najtańszej klawiatury typu NKRO (n-key rollover czyli pozwalającej na wciśnięcie w miarę dowolnej liczby klawiszy równocześnie) ➠ [NA PRZYKŁAD TAKIEJ](https://www.aliexpress.com/item/1005003262935062.html) (link aktywny w dniu publikacji). Tu przypomnę, że warto taki produkt [przetestować na odpowiedniej stronie](http://gadzikowski.com/nkeyrollover.html), czy rzeczywiście spełnia wymogi. Po pozytywnym wyniku testu należy pobrać z sieci pliki do [Stenotoppers](https://cemrajc.github.io/stenotoppers/) i zamówić ich [wydruk 3d](https://protoplastic.pl/). Następnie podmienić nakładki klawiszy na te wydrukowane - i mamy pierwszą wersję klawiatury.
 
 {{< figure src="klawira-stenotoppers.jpg" title="Własna klawiatura 3D" >}}
 
@@ -72,7 +72,7 @@ Dość popularnym w środowisku programistów jest [klawiatura Planck](https://w
 
 ##### KOS
 
-W kosztach podobnym (może nawet tańszym, pod pewnymi warunkami), ale o wyższym stopniu trudności jest realizacja [klawiatury zaprojektowanej przez Radomira]( {{< ref "../2021-12-10_raport_z_gabinetu/#kos-nie-janek" >}} ), na co się pod jego [kierunkiem pokusiłem]( {{< ref "../2022-02-15_wielkie_przyspieszenie/" >}} ). Nie wiem, po ilu latach od publikacji tego artykułu czytasz go, Kochany Czytelniku/Kochana Czytelniczko, więc na wszelki wypadek linkuję też do [kompletnego rozwiązania opublikowanego na GitHub](https://github.com/deshipu/kos-steno).
+W kosztach podobnym (może nawet tańszym, pod pewnymi warunkami), ale o wyższym stopniu trudności jest realizacja [klawiatury zaprojektowanej przez Radomira]( {{< ref "./2021-12-10_raport_z_gabinetu/#kos-nie-janek" >}} ), na co się pod jego [kierunkiem pokusiłem]( {{< ref "./2022-02-15_wielkie_przyspieszenie/" >}} ). Nie wiem, po ilu latach od publikacji tego artykułu czytasz go, Kochany Czytelniku/Kochana Czytelniczko, więc na wszelki wypadek linkuję też do [kompletnego rozwiązania opublikowanego na GitHub](https://github.com/deshipu/kos-steno).
 
 {{< figure src="kos-gotowy.jpg" title="Klawiatura KOS" >}}
 
