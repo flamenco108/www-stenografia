@@ -16,3 +16,4 @@
 public/
 stenografia/public/
 stemi-manual/docs/build/
+.env
