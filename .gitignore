@@ -16,4 +16,8 @@
 public/
 stenografia/public/
 stemi-manual/docs/build/
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 5cf74c835194060747ad7885d5bfdb7d84b7adb7
